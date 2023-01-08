@@ -4,7 +4,8 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 ## Links
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
-| 花小雕 | https://space.bilibili.com/487640933 | 日出江花红胜火，相声吐槽请康我 白日放歌须纵酒，硬币收藏有没有？  |
+| 花小雕 | https://space.bilibili.com/487640933 | UP主 |
+| FreenBecky | https://search.bilibili.com/all?keyword=FreenBecky | FreenBecky的搜索结果 |
 ## New
 - [链接](https://github.com/noteMay/noteMay.github.io/issues/8)--2023-01-08
 - [睡眠](https://github.com/noteMay/noteMay.github.io/issues/7)--2023-01-08
