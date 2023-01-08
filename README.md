@@ -6,6 +6,7 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
  | ---- | ---- | ---- |
 | 花小雕 | https://space.bilibili.com/487640933 | UP主 |
 | FreenBecky | https://search.bilibili.com/all?keyword=FreenBecky | FreenBecky的搜索结果 |
+| May2 | https://9852.life/ | 平凡人的生活 |
 ## New
 - [链接](https://github.com/noteMay/noteMay.github.io/issues/8)--2023-01-08
 - [睡眠](https://github.com/noteMay/noteMay.github.io/issues/7)--2023-01-08
