@@ -2,15 +2,15 @@
 My personal blog using issues and GitHub Actions (From：<https://github.com/yihong0618/gitblog>)
 [RSS Feed](https://raw.githubusercontent.com/noteMay/noteMay.github.io/master/feed.xml)
 ## Links
-| Name | Link | Desc | 
- | ---- | ---- | ---- |
-| 花小雕 | https://space.bilibili.com/487640933 | UP主 |
-| FreenBecky | https://search.bilibili.com/all?keyword=FreenBecky | FreenBecky的搜索结果 |
-| May2 | https://9852.life/ | 平凡人的生活 |
-| 能不能好好说话？ | https://lab.magiconch.com/nbnhhsh/ | 拼音首字母缩写释义工具 |
-| diff.blog | https://diff.blog/ | 博客聚合网站 |
-| iCloud | https://www.icloud.com/ | iCloud |
-| iCloud | https://www.icloud.com.cn/ | 云上贵州 |
+| Name | Link | 
+ | ---- | ---- |
+| 花小雕 | https://space.bilibili.com/487640933 |
+| FreenBecky | https://search.bilibili.com/all?keyword=FreenBecky |
+| May2 | https://9852.life/ |
+| 能不能好好说话？ | https://lab.magiconch.com/nbnhhsh/ |
+| diff.blog | https://diff.blog/ |
+| iCloud | https://www.icloud.com/ |
+| iCloud | https://www.icloud.com.cn/ |
 ## New
 - [明日方舟会客室线索获取](https://github.com/noteMay/noteMay.github.io/issues/12)--2023-01-08
 - [早餐午餐晚餐宵夜](https://github.com/noteMay/noteMay.github.io/issues/11)--2023-01-08
