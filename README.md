@@ -9,6 +9,8 @@ My personal blog using issues and GitHub Actions (From：<https://github.com/yih
 | May2 | https://9852.life/ | 平凡人的生活 |
 | 能不能好好说话？ | https://lab.magiconch.com/nbnhhsh/ | 拼音首字母缩写释义工具 |
 | diff.blog | https://diff.blog/ | 博客聚合网站 |
+| iCloud | https://www.icloud.com/ | iCloud |
+| iCloud | https://www.icloud.com.cn/ | 云上贵州 |
 ## New
 - [明日方舟会客室线索获取](https://github.com/noteMay/noteMay.github.io/issues/12)--2023-01-08
 - [早餐午餐晚餐宵夜](https://github.com/noteMay/noteMay.github.io/issues/11)--2023-01-08
