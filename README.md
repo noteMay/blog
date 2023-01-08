@@ -2,8 +2,8 @@
 My personal blog using issues and GitHub Actions (From：<https://github.com/yihong0618/gitblog>)
 [RSS Feed](https://raw.githubusercontent.com/noteMay/noteMay.github.io/master/feed.xml)
 ## Links
-|:------:|:------:|:------:| 
- | Name | Link | Desc | 
+| :---: | :---: | :---: |
+ | Name | Link | Desc |
 | 花小雕 | https://space.bilibili.com/487640933 | UP主 |
 | FreenBecky | https://search.bilibili.com/all?keyword=FreenBecky | FreenBecky的搜索结果 |
 | May2 | https://9852.life/ | 平凡人的生活 |
@@ -15,6 +15,7 @@ My personal blog using issues and GitHub Actions (From：<https://github.com/yih
 - [链接](https://github.com/noteMay/noteMay.github.io/issues/8)--2023-01-08
 - [睡眠](https://github.com/noteMay/noteMay.github.io/issues/7)--2023-01-08
 ## 2023
+- [摸游戏](https://github.com/noteMay/noteMay.github.io/issues/10)--2023-01-08
 - [睡眠](https://github.com/noteMay/noteMay.github.io/issues/7)--2023-01-08
 - [2023-01](https://github.com/noteMay/noteMay.github.io/issues/6)--2023-01-08
 ## Anime Comic
@@ -23,6 +24,8 @@ My personal blog using issues and GitHub Actions (From：<https://github.com/yih
 - [2023-01-08](https://github.com/noteMay/noteMay.github.io/issues/9)--2023-01-08
 ## Food
 - [早餐午餐晚餐宵夜](https://github.com/noteMay/noteMay.github.io/issues/11)--2023-01-08
+## Game
+- [摸游戏](https://github.com/noteMay/noteMay.github.io/issues/10)--2023-01-08
 ## Life
 - [早餐午餐晚餐宵夜](https://github.com/noteMay/noteMay.github.io/issues/11)--2023-01-08
 - [2023-01](https://github.com/noteMay/noteMay.github.io/issues/6)--2023-01-08
