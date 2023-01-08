@@ -1,4 +1,4 @@
-## Gitblog
+## [Gitblog](https://github.com/noteMay/noteMay.github.io/)
 My personal blog using issues and GitHub Actions (From：<https://github.com/yihong0618/gitblog>)
 [RSS Feed](https://raw.githubusercontent.com/noteMay/noteMay.github.io/master/feed.xml)
 ## Links
@@ -13,7 +13,7 @@ My personal blog using issues and GitHub Actions (From：<https://github.com/yih
 - [明日方舟](https://github.com/noteMay/noteMay.github.io/issues/12)--2023-01-08
 - [早餐午餐晚餐宵夜](https://github.com/noteMay/noteMay.github.io/issues/11)--2023-01-08
 - [摸游戏](https://github.com/noteMay/noteMay.github.io/issues/10)--2023-01-08
-- [2023-01-08](https://github.com/noteMay/noteMay.github.io/issues/9)--2023-01-08
+- [剁手](https://github.com/noteMay/noteMay.github.io/issues/9)--2023-01-08
 - [链接](https://github.com/noteMay/noteMay.github.io/issues/8)--2023-01-08
 ## 2023
 - [摸游戏](https://github.com/noteMay/noteMay.github.io/issues/10)--2023-01-08
@@ -22,7 +22,7 @@ My personal blog using issues and GitHub Actions (From：<https://github.com/yih
 ## Anime Comic
 - [2023一月追番](https://github.com/noteMay/noteMay.github.io/issues/4)--2023-01-08
 ## Buy
-- [2023-01-08](https://github.com/noteMay/noteMay.github.io/issues/9)--2023-01-08
+- [剁手](https://github.com/noteMay/noteMay.github.io/issues/9)--2023-01-08
 ## Food
 - [早餐午餐晚餐宵夜](https://github.com/noteMay/noteMay.github.io/issues/11)--2023-01-08
 ## Game
