@@ -20,12 +20,11 @@ TODO_ISSUES_LABELS = ["TODO"]
 FRIENDS_LABELS = ["Links"]
 IGNORE_LABELS = FRIENDS_LABELS + TOP_ISSUES_LABELS + TODO_ISSUES_LABELS
 
-FRIENDS_TABLE_HEAD = "| Name | Link | Desc | \n | ---- | ---- | ---- |\n"
-FRIENDS_TABLE_TEMPLATE = "| {name} | {link} | {desc} |\n"
+FRIENDS_TABLE_HEAD = "| Name | Link | \n | ---- | ---- |\n"
+FRIENDS_TABLE_TEMPLATE = "| {name} | {link} |\n"
 FRIENDS_INFO_DICT = {
     "名字": "",
     "链接": "",
-    "描述": "",
 }
 
 
@@ -57,7 +56,7 @@ def _make_friend_table_string(s):
                 continue
             info_dict[string_info_list[0]] = string_info_list[1]
         return FRIENDS_TABLE_TEMPLATE.format(
-            name=info_dict["名字"], link=info_dict["链接"], desc=info_dict["描述"]
+            name=info_dict["名字"], link=info_dict["链接"]
         )
     except Exception as e:
         print(str(e))
