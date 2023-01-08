@@ -1,4 +1,4 @@
-## [Gitblog](https://github.com/noteMay/noteMay.github.io/)
+## [May's Gitblog](https://github.com/noteMay/noteMay.github.io/)
 My personal blog using issues and GitHub Actions (From：<https://github.com/yihong0618/gitblog>)
 [RSS Feed](https://raw.githubusercontent.com/noteMay/noteMay.github.io/master/feed.xml)
 ## Links
