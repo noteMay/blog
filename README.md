@@ -2,9 +2,9 @@
 My personal blog using issues and GitHub Actions (From：<https://github.com/yihong0618/gitblog>)
 [RSS Feed](https://raw.githubusercontent.com/noteMay/noteMay.github.io/master/feed.xml)
 ## Links
+| ---- | ---- | ---- |
 | Name | Link | Desc | 
- | ---- | ---- | ---- |
-| 花小雕 | https://space.bilibili.com/487640933 | UP主 |
+ | 花小雕 | https://space.bilibili.com/487640933 | UP主 |
 | FreenBecky | https://search.bilibili.com/all?keyword=FreenBecky | FreenBecky的搜索结果 |
 | May2 | https://9852.life/ | 平凡人的生活 |
 ## New
@@ -16,7 +16,7 @@ My personal blog using issues and GitHub Actions (From：<https://github.com/yih
 ## 2023
 - [睡眠](https://github.com/noteMay/noteMay.github.io/issues/7)--2023-01-08
 - [2023-01](https://github.com/noteMay/noteMay.github.io/issues/6)--2023-01-08
-## AnimeComic
+## Anime Comic
 - [2023一月追番](https://github.com/noteMay/noteMay.github.io/issues/4)--2023-01-08
 ## Buy
 - [2023-01-08](https://github.com/noteMay/noteMay.github.io/issues/9)--2023-01-08
