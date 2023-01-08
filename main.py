@@ -161,7 +161,7 @@ def add_md_firends(repo, md, me):
                     print(str(e))
                     pass
     with open(md, "a+", encoding="utf-8") as md:
-        md.write("## 友情链接\n")
+        md.write("## Links\n")
         md.write(s)
 
 
@@ -170,7 +170,7 @@ def add_md_recent(repo, md, me, limit=5):
     with open(md, "a+", encoding="utf-8") as md:
         # one the issue that only one issue and delete (pyGitHub raise an exception)
         try:
-            md.write("## 最近更新\n")
+            md.write("## New\n")
             for issue in repo.get_issues():
                 if is_me(issue, me):
                     add_issue_info(issue, md)
@@ -210,7 +210,7 @@ def add_md_label(repo, md, me):
                     continue
                 if is_me(issue, me):
                     if i == ANCHOR_NUMBER:
-                        md.write("<details><summary>显示更多</summary>\n")
+                        md.write("<details><summary>More</summary>\n")
                         md.write("\n")
                     add_issue_info(issue, md)
                     i += 1
