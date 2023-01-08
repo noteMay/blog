@@ -1,10 +1,10 @@
 ## Gitblog
 My personal blog using issues and GitHub Actions (随意转载，无需署名)
 [RSS Feed](https://raw.githubusercontent.com/noteMay/Note/master/feed.xml)
-## 友情链接
+## Links
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
-## 最近更新
+## New
 - [睡眠](https://github.com/noteMay/Note/issues/7)--2023-01-08
 - [2023-01](https://github.com/noteMay/Note/issues/6)--2023-01-08
 - [网络小说](https://github.com/noteMay/Note/issues/5)--2023-01-08
