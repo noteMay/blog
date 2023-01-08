@@ -5,15 +5,17 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [2023-01](https://github.com/noteMay/Note/issues/6)--2023-01-08
 - [网络小说](https://github.com/noteMay/Note/issues/5)--2023-01-08
 - [2023一月追番](https://github.com/noteMay/Note/issues/4)--2023-01-08
 - [看视频](https://github.com/noteMay/Note/issues/3)--2023-01-08
 - [2023年想做的事情](https://github.com/noteMay/Note/issues/2)--2023-01-08
-- [粉红理论](https://github.com/noteMay/Note/issues/1)--2023-01-08
 ## Read
 - [网络小说](https://github.com/noteMay/Note/issues/5)--2023-01-08
 ## AnimeComic
 - [2023一月追番](https://github.com/noteMay/Note/issues/4)--2023-01-08
+## Life
+- [2023-01](https://github.com/noteMay/Note/issues/6)--2023-01-08
 ## Video
 - [看视频](https://github.com/noteMay/Note/issues/3)--2023-01-08
 - [粉红理论](https://github.com/noteMay/Note/issues/1)--2023-01-08
