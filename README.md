@@ -8,9 +8,9 @@ My personal blog using issues and GitHub Actions (From：<https://github.com/yih
 | FreenBecky | <https://search.bilibili.com/all?keyword=FreenBecky> |
 | May2 | <https://9852.life/> |
 | 能不能好好说话？ | <https://lab.magiconch.com/nbnhhsh/> |
-| diff.blog | https://diff.blog/ |
-| iCloud | https://www.icloud.com/ |
-| iCloud | https://www.icloud.com.cn/ |
+| diff.blog | <https://diff.blog/> |
+| iCloud | <https://www.icloud.com/> |
+| iCloud | <https://www.icloud.com.cn/> |
 ## TOP
 - [2023-01](https://github.com/noteMay/noteMay.github.io/issues/6)--2023-01-08
 ## New
