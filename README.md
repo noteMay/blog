@@ -3,13 +3,13 @@ My personal blog using issues and GitHub Actions (From：<https://github.com/yih
 [RSS Feed](https://raw.githubusercontent.com/noteMay/noteMay.github.io/master/feed.xml)
 ## Links
  `个人用` 
-花小雕：<https://space.bilibili.com/487640933>
-FreenBecky：<https://search.bilibili.com/all?keyword=FreenBecky>
-May2：<https://9852.life/>
-能不能好好说话？：<https://lab.magiconch.com/nbnhhsh/>
-diff.blog：<https://diff.blog/>
-iCloud：<https://www.icloud.com/>
-iCloud：<https://www.icloud.com.cn/>
+花小雕：<https://space.bilibili.com/487640933>；
+FreenBecky：<https://search.bilibili.com/all?keyword=FreenBecky>；
+May2：<https://9852.life/>；
+能不能好好说话？：<https://lab.magiconch.com/nbnhhsh/>；
+diff.blog：<https://diff.blog/>；
+iCloud：<https://www.icloud.com/>；
+iCloud：<https://www.icloud.com.cn/>；
 ## TOP
 - [早餐午餐晚餐宵夜](https://github.com/noteMay/noteMay.github.io/issues/11)--2023-01-08
 - [摸游戏](https://github.com/noteMay/noteMay.github.io/issues/10)--2023-01-08
