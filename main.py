@@ -25,7 +25,6 @@ FRIENDS_TABLE_TEMPLATE = "{name}：{link}\n"
 FRIENDS_INFO_DICT = {
     "名字": "",
     "链接": "",
-    "描述": "",
 }
 
 
