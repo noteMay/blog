@@ -20,12 +20,8 @@ TODO_ISSUES_LABELS = ["TODO"]
 FRIENDS_LABELS = ["Links"]
 IGNORE_LABELS = FRIENDS_LABELS + TOP_ISSUES_LABELS + TODO_ISSUES_LABELS
 
-FRIENDS_TABLE_HEAD = "| Name | Link | \n | ---- | ---- |\n"
-FRIENDS_TABLE_TEMPLATE = "| {name} | {link} |\n"
-FRIENDS_INFO_DICT = {
-    "名字": "",
-    "链接": "",
-}
+FRIENDS_TABLE_HEAD = "Name：Link"
+FRIENDS_TABLE_TEMPLATE = "{name}：{link}\n"
 
 
 def get_me(user):
