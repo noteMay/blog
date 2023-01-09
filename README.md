@@ -2,7 +2,8 @@
 My personal blog using issues and GitHub Actions (From：<https://github.com/yihong0618/gitblog>)
 [RSS Feed](https://raw.githubusercontent.com/noteMay/noteMay.github.io/master/feed.xml)
 ## Links
-Name：Link花小雕：<https://space.bilibili.com/487640933>
+ `个人用` 
+花小雕：<https://space.bilibili.com/487640933>
 FreenBecky：<https://search.bilibili.com/all?keyword=FreenBecky>
 May2：<https://9852.life/>
 能不能好好说话？：<https://lab.magiconch.com/nbnhhsh/>
