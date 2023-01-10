@@ -5,6 +5,7 @@ My personal blog using issues and GitHub Actions (From：<https://github.com/yih
  `个人用` 
 花小雕：<https://space.bilibili.com/487640933>；
 FreenBecky：<https://search.bilibili.com/all?keyword=FreenBecky>；
+May2：<https://9852.life/>；
 能不能好好说话？：<https://lab.magiconch.com/nbnhhsh/>；
 diff.blog：<https://diff.blog/>；
 iCloud：<https://www.icloud.com/>；
