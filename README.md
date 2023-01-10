@@ -16,19 +16,20 @@ iCloud云上贵州：<https://www.icloud.com.cn/>；
 - [2023-01](https://github.com/noteMay/noteMay.github.io/issues/6)--2023-01-08
 - [2023年想做的事情](https://github.com/noteMay/noteMay.github.io/issues/2)--2023-01-08
 ## New
+- [乒乓球](https://github.com/noteMay/noteMay.github.io/issues/15)--2023-01-10
 - [看剧](https://github.com/noteMay/noteMay.github.io/issues/14)--2023-01-10
 - [明日方舟会客室线索获取](https://github.com/noteMay/noteMay.github.io/issues/12)--2023-01-08
 - [早餐午餐晚餐宵夜](https://github.com/noteMay/noteMay.github.io/issues/11)--2023-01-08
 - [摸游戏](https://github.com/noteMay/noteMay.github.io/issues/10)--2023-01-08
-- [剁手](https://github.com/noteMay/noteMay.github.io/issues/9)--2023-01-08
 ## 2023
+- [乒乓球](https://github.com/noteMay/noteMay.github.io/issues/15)--2023-01-10
 - [看剧](https://github.com/noteMay/noteMay.github.io/issues/14)--2023-01-10
 - [早餐午餐晚餐宵夜](https://github.com/noteMay/noteMay.github.io/issues/11)--2023-01-08
 - [摸游戏](https://github.com/noteMay/noteMay.github.io/issues/10)--2023-01-08
 - [剁手](https://github.com/noteMay/noteMay.github.io/issues/9)--2023-01-08
-- [睡眠](https://github.com/noteMay/noteMay.github.io/issues/7)--2023-01-08
 <details><summary>More</summary>
 
+- [睡眠](https://github.com/noteMay/noteMay.github.io/issues/7)--2023-01-08
 - [2023-01](https://github.com/noteMay/noteMay.github.io/issues/6)--2023-01-08
 - [追番](https://github.com/noteMay/noteMay.github.io/issues/4)--2023-01-08
 </details>
@@ -59,6 +60,8 @@ iCloud云上贵州：<https://www.icloud.com.cn/>；
 - [看剧](https://github.com/noteMay/noteMay.github.io/issues/14)--2023-01-10
 - [看视频](https://github.com/noteMay/noteMay.github.io/issues/3)--2023-01-08
 - [粉红理论](https://github.com/noteMay/noteMay.github.io/issues/1)--2023-01-08
+## sport
+- [乒乓球](https://github.com/noteMay/noteMay.github.io/issues/15)--2023-01-10
 ## TODO
 TODO list from [2023年想做的事情](https://github.com/noteMay/noteMay.github.io/issues/2)--7 jobs to do--2 jobs done
 - [x] 用大佬的代码写打卡issues
