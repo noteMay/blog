@@ -53,11 +53,13 @@ iCloud：<https://www.icloud.com.cn/>；
 - [看视频](https://github.com/noteMay/noteMay.github.io/issues/3)--2023-01-08
 - [粉红理论](https://github.com/noteMay/noteMay.github.io/issues/1)--2023-01-08
 ## TODO
-TODO list from [2023年想做的事情](https://github.com/noteMay/noteMay.github.io/issues/2)--6 jobs to do--0 jobs done
+TODO list from [2023年想做的事情](https://github.com/noteMay/noteMay.github.io/issues/2)--7 jobs to do--1 jobs done
+- [x] 更改链接的格式，使GitHub Page能显示完整
 - [ ] 拍更多照片
 - [ ] 学习语言
 - [ ] 继续学习作曲、了解作曲
 - [ ] 学习电子琴
 - [ ] 锻炼身体
 - [ ] 早睡早起
+- [ ] 用大佬的代码写打卡issues
 
