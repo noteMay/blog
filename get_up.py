@@ -6,7 +6,7 @@ import pendulum
 from github import Github
 
 # 14 for test 12 real get up
-GET_UP_ISSUE_NUMBER = 13   
+GET_UP_ISSUE_NUMBER = 13  
 GET_UP_MESSAGE_TEMPLATE = (
     "今天的起床时间是--{get_up_time}.\r\n\r\n 早睡早起身体好"
 )
