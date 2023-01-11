@@ -64,7 +64,7 @@ iCloud云上贵州：<https://www.icloud.com.cn/>；
 ## sport
 - [乒乓球](https://github.com/noteMay/noteMay.github.io/issues/15)--2023-01-10
 ## TODO
-TODO list from [2023年想做的事情](https://github.com/noteMay/noteMay.github.io/issues/2)--7 jobs to do--2 jobs done
+TODO list from [2023年想做的事情](https://github.com/noteMay/noteMay.github.io/issues/2)--8 jobs to do--2 jobs done
 - [x] 用大佬的代码写打卡issues
 - [x] 更改链接的格式，使GitHub Page能显示完整
 - [ ] 拍更多照片
@@ -73,5 +73,6 @@ TODO list from [2023年想做的事情](https://github.com/noteMay/noteMay.githu
 - [ ] 学习电子琴
 - [ ] 锻炼身体
 - [ ] 早睡早起
-- [ ] 写一个页面展示我的打卡记录
+- [ ] 写一个页面展示我的打卡记录（获取issues最近更新时间）
+- [ ] 看风景（旅游的意思）
 
