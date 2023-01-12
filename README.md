@@ -15,19 +15,20 @@ iCloud云上贵州：<https://www.icloud.com.cn/>；
 - [摸游戏](https://github.com/noteMay/noteMay.github.io/issues/10)--2023-01-08
 - [2023-01](https://github.com/noteMay/noteMay.github.io/issues/6)--2023-01-08
 ## New
+- [RedMi Watch 2](https://github.com/noteMay/noteMay.github.io/issues/20)--2023-01-12
 - [作曲写歌创作入门](https://github.com/noteMay/noteMay.github.io/issues/19)--2023-01-12
 - [听歌](https://github.com/noteMay/noteMay.github.io/issues/18)--2023-01-11
 - [-](https://github.com/noteMay/noteMay.github.io/issues/17)--2023-01-11
 - [麦当当](https://github.com/noteMay/noteMay.github.io/issues/16)--2023-01-10
-- [乒乓球](https://github.com/noteMay/noteMay.github.io/issues/15)--2023-01-10
 ## 2023
+- [RedMi Watch 2](https://github.com/noteMay/noteMay.github.io/issues/20)--2023-01-12
 - [听歌](https://github.com/noteMay/noteMay.github.io/issues/18)--2023-01-11
 - [乒乓球](https://github.com/noteMay/noteMay.github.io/issues/15)--2023-01-10
 - [看剧](https://github.com/noteMay/noteMay.github.io/issues/14)--2023-01-10
 - [早餐午餐晚餐宵夜](https://github.com/noteMay/noteMay.github.io/issues/11)--2023-01-08
-- [摸游戏](https://github.com/noteMay/noteMay.github.io/issues/10)--2023-01-08
 <details><summary>More</summary>
 
+- [摸游戏](https://github.com/noteMay/noteMay.github.io/issues/10)--2023-01-08
 - [睡眠](https://github.com/noteMay/noteMay.github.io/issues/7)--2023-01-08
 - [2023-01](https://github.com/noteMay/noteMay.github.io/issues/6)--2023-01-08
 - [网络小说](https://github.com/noteMay/noteMay.github.io/issues/5)--2023-01-08
@@ -57,6 +58,7 @@ iCloud云上贵州：<https://www.icloud.com.cn/>；
 - [明日方舟会客室线索获取](https://github.com/noteMay/noteMay.github.io/issues/12)--2023-01-08
 - [摸游戏](https://github.com/noteMay/noteMay.github.io/issues/10)--2023-01-08
 ## 生活
+- [RedMi Watch 2](https://github.com/noteMay/noteMay.github.io/issues/20)--2023-01-12
 - [乒乓球](https://github.com/noteMay/noteMay.github.io/issues/15)--2023-01-10
 - [早餐午餐晚餐宵夜](https://github.com/noteMay/noteMay.github.io/issues/11)--2023-01-08
 - [睡眠](https://github.com/noteMay/noteMay.github.io/issues/7)--2023-01-08
