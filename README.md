@@ -17,7 +17,7 @@ iCloud云上贵州：<https://www.icloud.com.cn/>；
 - [2023年想做的事情](https://github.com/noteMay/noteMay.github.io/issues/2)--2023-01-08
 ## New
 - [听歌](https://github.com/noteMay/noteMay.github.io/issues/18)--2023-01-11
-- [。](https://github.com/noteMay/noteMay.github.io/issues/17)--2023-01-11
+- [-](https://github.com/noteMay/noteMay.github.io/issues/17)--2023-01-11
 - [麦当当](https://github.com/noteMay/noteMay.github.io/issues/16)--2023-01-10
 - [乒乓球](https://github.com/noteMay/noteMay.github.io/issues/15)--2023-01-10
 - [看剧](https://github.com/noteMay/noteMay.github.io/issues/14)--2023-01-10
