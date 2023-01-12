@@ -65,11 +65,12 @@ iCloud云上贵州：<https://www.icloud.com.cn/>；
 - [麦当当](https://github.com/noteMay/noteMay.github.io/issues/16)--2023-01-10
 - [早餐午餐晚餐宵夜](https://github.com/noteMay/noteMay.github.io/issues/11)--2023-01-08
 ## TODO
-TODO list from [2023年想做的事情](https://github.com/noteMay/noteMay.github.io/issues/2)--8 jobs to do--2 jobs done
+TODO list from [2023年想做的事情](https://github.com/noteMay/noteMay.github.io/issues/2)--9 jobs to do--2 jobs done
 - [x] 用大佬的代码写打卡issues
 - [x] 更改链接的格式，使GitHub Page能显示完整
 - [ ] 拍更多照片
-- [ ] 学习语言
+- [ ] 学习英语
+- [ ] 学习日语
 - [ ] 继续学习作曲、了解作曲
 - [ ] 学习电子琴
 - [ ] 锻炼身体
