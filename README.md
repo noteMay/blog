@@ -43,11 +43,16 @@ iCloud云上贵州：<https://www.icloud.com.cn/>；
 - [2023-01](https://github.com/noteMay/noteMay.github.io/issues/6)--2023-01-08
 - [2023年想做的事情](https://github.com/noteMay/noteMay.github.io/issues/2)--2023-01-08
 ## 兴趣
+- [听歌](https://github.com/noteMay/noteMay.github.io/issues/18)--2023-01-11
 - [看剧](https://github.com/noteMay/noteMay.github.io/issues/14)--2023-01-10
 - [网络小说](https://github.com/noteMay/noteMay.github.io/issues/5)--2023-01-08
 - [追番](https://github.com/noteMay/noteMay.github.io/issues/4)--2023-01-08
 - [看视频](https://github.com/noteMay/noteMay.github.io/issues/3)--2023-01-08
+<details><summary>More</summary>
+
 - [粉红理论](https://github.com/noteMay/noteMay.github.io/issues/1)--2023-01-08
+</details>
+
 ## 游戏
 - [明日方舟会客室线索获取](https://github.com/noteMay/noteMay.github.io/issues/12)--2023-01-08
 - [摸游戏](https://github.com/noteMay/noteMay.github.io/issues/10)--2023-01-08
