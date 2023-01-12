@@ -32,6 +32,7 @@ iCloud云上贵州：<https://www.icloud.com.cn/>；
 - [2023-01](https://github.com/noteMay/noteMay.github.io/issues/6)--2023-01-08
 - [网络小说](https://github.com/noteMay/noteMay.github.io/issues/5)--2023-01-08
 - [追番](https://github.com/noteMay/noteMay.github.io/issues/4)--2023-01-08
+- [粉红理论](https://github.com/noteMay/noteMay.github.io/issues/1)--2023-01-08
 </details>
 
 ## Anime Comic
