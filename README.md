@@ -26,18 +26,16 @@ iCloud云上贵州：<https://www.icloud.com.cn/>；
 - [看剧](https://github.com/noteMay/noteMay.github.io/issues/14)--2023-01-10
 - [早餐午餐晚餐宵夜](https://github.com/noteMay/noteMay.github.io/issues/11)--2023-01-08
 - [摸游戏](https://github.com/noteMay/noteMay.github.io/issues/10)--2023-01-08
-- [剁手](https://github.com/noteMay/noteMay.github.io/issues/9)--2023-01-08
+- [睡眠](https://github.com/noteMay/noteMay.github.io/issues/7)--2023-01-08
 <details><summary>More</summary>
 
-- [睡眠](https://github.com/noteMay/noteMay.github.io/issues/7)--2023-01-08
 - [2023-01](https://github.com/noteMay/noteMay.github.io/issues/6)--2023-01-08
+- [网络小说](https://github.com/noteMay/noteMay.github.io/issues/5)--2023-01-08
 - [追番](https://github.com/noteMay/noteMay.github.io/issues/4)--2023-01-08
 </details>
 
 ## Anime Comic
 - [追番](https://github.com/noteMay/noteMay.github.io/issues/4)--2023-01-08
-## Buy
-- [剁手](https://github.com/noteMay/noteMay.github.io/issues/9)--2023-01-08
 ## Food
 - [麦当当](https://github.com/noteMay/noteMay.github.io/issues/16)--2023-01-10
 - [早餐午餐晚餐宵夜](https://github.com/noteMay/noteMay.github.io/issues/11)--2023-01-08
@@ -46,7 +44,6 @@ iCloud云上贵州：<https://www.icloud.com.cn/>；
 - [摸游戏](https://github.com/noteMay/noteMay.github.io/issues/10)--2023-01-08
 ## Life
 - [早餐午餐晚餐宵夜](https://github.com/noteMay/noteMay.github.io/issues/11)--2023-01-08
-- [剁手](https://github.com/noteMay/noteMay.github.io/issues/9)--2023-01-08
 - [2023-01](https://github.com/noteMay/noteMay.github.io/issues/6)--2023-01-08
 ## Read
 - [网络小说](https://github.com/noteMay/noteMay.github.io/issues/5)--2023-01-08
