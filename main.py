@@ -1,31 +1,31 @@
 # -*- coding: utf-8 -*-
 import argparse
 import os
-import re
 
 from marko.ext.gfm import gfm as marko
 from github import Github
 from feedgen.feed import FeedGenerator
 from lxml.etree import CDATA
 
-MD_HEAD = """## [May's Gitblog](https://github.com/{repo_name}/)
-My personal blog using issues and GitHub Actions (From：<https://github.com/yihong0618/gitblog>)
-[RSS Feed](https://raw.githubusercontent.com/{repo_name}/master/feed.xml)
+MD_HEAD = """**<p align="center">[Leeyom's Blog](https://blog.leeyom.top)</p>**
+====
+
+**<p align="center">用于记录一些幼稚的想法和脑残的瞬间</p>**
+[![](https://raw.githubusercontent.com/superleeyom/blog/main/img/IMG_216.JPEG)](https://blog.leeyom.top)
+
+## 联系方式
+- Twitter：[@super_leeyom](https://twitter.com/super_leeyom)
+- Telegram：[@super_leeyom](https://t.me/super_leeyom)
+- Email：[leeyomwang@163.com](mailto:leeyomwang@163.com)
+- Blog：[https://blog.leeyom.top](https://blog.leeyom.top)
+- RSS：[RSS Feed](https://raw.githubusercontent.com/{repo_name}/master/feed.xml)
 """
 
-BACKUP_DIR = "BACKUP"
+BACKUP_DIR = "backup"
 ANCHOR_NUMBER = 5
 TOP_ISSUES_LABELS = ["Top"]
 TODO_ISSUES_LABELS = ["TODO"]
-FRIENDS_LABELS = ["Links"]
-IGNORE_LABELS = FRIENDS_LABELS + TOP_ISSUES_LABELS + TODO_ISSUES_LABELS
-
-FRIENDS_TABLE_HEAD = " `个人用` \n"
-FRIENDS_TABLE_TEMPLATE = "{name}：{link}；\n"
-FRIENDS_INFO_DICT = {
-    "名字": "",
-    "链接": "",
-}
+IGNORE_LABELS = TOP_ISSUES_LABELS + TODO_ISSUES_LABELS
 
 
 def get_me(user):
@@ -36,42 +36,15 @@ def is_me(issue, me):
     return issue.user.login == me
 
 
-def is_hearted_by_me(comment, me):
-    reactions = list(comment.get_reactions())
-    for r in reactions:
-        if r.content == "heart" and r.user.login == me:
-            return True
-    return False
-
-
-def _make_friend_table_string(s):
-    info_dict = FRIENDS_INFO_DICT.copy()
-    try:
-        string_list = s.splitlines()
-        # drop empty line
-        string_list = [l for l in string_list if l and not l.isspace()]
-        for l in string_list:
-            string_info_list = re.split("：", l)
-            if len(string_info_list) < 2:
-                continue
-            info_dict[string_info_list[0]] = string_info_list[1]
-        return FRIENDS_TABLE_TEMPLATE.format(
-            name=info_dict["名字"], link=info_dict["链接"]
-        )
-    except Exception as e:
-        print(str(e))
-        return
-
-
 # help to covert xml vaild string
 def _valid_xml_char_ordinal(c):
     codepoint = ord(c)
     # conditions ordered by presumed frequency
     return (
-        0x20 <= codepoint <= 0xD7FF
-        or codepoint in (0x9, 0xA, 0xD)
-        or 0xE000 <= codepoint <= 0xFFFD
-        or 0x10000 <= codepoint <= 0x10FFFF
+            0x20 <= codepoint <= 0xD7FF
+            or codepoint in (0x9, 0xA, 0xD)
+            or 0xE000 <= codepoint <= 0xFFFD
+            or 0x10000 <= codepoint <= 0x10FFFF
     )
 
 
@@ -148,22 +121,6 @@ def add_md_top(repo, md, me):
                 add_issue_info(issue, md)
 
 
-def add_md_firends(repo, md, me):
-    s = FRIENDS_TABLE_HEAD
-    friends_issues = list(repo.get_issues(labels=FRIENDS_LABELS))
-    for issue in friends_issues:
-        for comment in issue.get_comments():
-            if is_hearted_by_me(comment, me):
-                try:
-                    s += _make_friend_table_string(comment.body)
-                except Exception as e:
-                    print(str(e))
-                    pass
-    with open(md, "a+", encoding="utf-8") as md:
-        md.write("## Links\n")
-        md.write(s)
-
-
 def add_md_recent(repo, md, me, limit=5):
     count = 0
     with open(md, "a+", encoding="utf-8") as md:
@@ -187,11 +144,6 @@ def add_md_header(md, repo_name):
 
 def add_md_label(repo, md, me):
     labels = get_repo_labels(repo)
-
-    # sort lables by description info if it exists, otherwise sort by name, 
-    # for example, we can let the description start with a number (1#Java, 2#Docker, 3#K8s, etc.)
-    labels = sorted(labels, key=lambda x: (x.description is None, x.description == "", x.description, x.name))
-
     with open(md, "a+", encoding="utf-8") as md:
         for label in labels:
 
@@ -266,7 +218,7 @@ def main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
     repo = get_repo(user, repo_name)
     # add to readme one by one, change order here
     add_md_header("README.md", repo_name)
-    for func in [add_md_firends, add_md_top, add_md_recent, add_md_label, add_md_todo]:
+    for func in [add_md_top, add_md_recent, add_md_label, add_md_todo]:
         func(repo, "README.md", me)
 
     generate_rss_feed(repo, "feed.xml", me)
