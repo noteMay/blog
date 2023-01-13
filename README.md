@@ -69,6 +69,9 @@
 ## 美食
 - [麦当当](https://github.com/noteMay/blog/issues/16)--2023-01-10
 - [早餐午餐晚餐宵夜](https://github.com/noteMay/blog/issues/11)--2023-01-08
+## 记录
+- [乒乓球](https://github.com/noteMay/blog/issues/15)--2023-01-10
+- [摸游戏](https://github.com/noteMay/blog/issues/10)--2023-01-08
 ## TODO
 TODO list from [2023年想做的事情](https://github.com/noteMay/blog/issues/2)--10 jobs to do--2 jobs done
 - [x] 用大佬的代码写打卡issues
