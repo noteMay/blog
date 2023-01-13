@@ -11,7 +11,6 @@
 - RSS：[RSS Feed](https://raw.githubusercontent.com/noteMay/blog/master/feed.xml)
 ## TOP
 - [早餐午餐晚餐宵夜](https://github.com/noteMay/blog/issues/11)--2023-01-08
-- [摸游戏](https://github.com/noteMay/blog/issues/10)--2023-01-08
 - [2023-01](https://github.com/noteMay/blog/issues/6)--2023-01-08
 ## New
 - [2022百大](https://github.com/noteMay/blog/issues/22)--2023-01-13
@@ -41,7 +40,6 @@
 - [链接](https://github.com/noteMay/blog/issues/8)--2023-01-08
 ## TOP
 - [早餐午餐晚餐宵夜](https://github.com/noteMay/blog/issues/11)--2023-01-08
-- [摸游戏](https://github.com/noteMay/blog/issues/10)--2023-01-08
 - [2023-01](https://github.com/noteMay/blog/issues/6)--2023-01-08
 ## 兴趣
 - [2022百大](https://github.com/noteMay/blog/issues/22)--2023-01-13
@@ -71,6 +69,7 @@
 - [麦当当](https://github.com/noteMay/blog/issues/16)--2023-01-10
 - [早餐午餐晚餐宵夜](https://github.com/noteMay/blog/issues/11)--2023-01-08
 ## 记录
+- [作曲写歌创作入门](https://github.com/noteMay/blog/issues/19)--2023-01-12
 - [乒乓球](https://github.com/noteMay/blog/issues/15)--2023-01-10
 - [摸游戏](https://github.com/noteMay/blog/issues/10)--2023-01-08
 ## TODO
