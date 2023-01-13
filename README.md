@@ -10,6 +10,7 @@ May2：<https://9852.life/>；
 diff.blog：<https://diff.blog/>；
 iCloud：<https://www.icloud.com/>；
 iCloud云上贵州：<https://www.icloud.com.cn/>；
+Strava：https://www.strava.com/；
 ## TOP
 - [早餐午餐晚餐宵夜](https://github.com/noteMay/noteMay.github.io/issues/11)--2023-01-08
 - [摸游戏](https://github.com/noteMay/noteMay.github.io/issues/10)--2023-01-08
