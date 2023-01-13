@@ -1,0 +1,10 @@
+__pycache__
+nohup.out
+.git-credentials
+venv/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
