@@ -7,11 +7,11 @@ from github import Github
 from feedgen.feed import FeedGenerator
 from lxml.etree import CDATA
 
-MD_HEAD = """**<p align="center">[Leeyom's Blog](https://blog.9852.life/)</p>**
+MD_HEAD = """**<p align="center">[May's Blog](https://blog.9852.life/)</p>**
 ====
 
-**<p align="center">用于记录一些幼稚的想法和脑残的瞬间</p>**
-[![](https://raw.githubusercontent.com/superleeyom/blog/main/img/IMG_216.JPEG)](https://blog.leeyom.top)
+**<p align="center">记录生活</p>**
+[![](https://9852.ru/images/2022/12/23/9852.life.png)](https://blog.9852.life/)
 
 ## 联系方式
 - Twitter：[@zyuino](https://twitter.com/zyuino)
