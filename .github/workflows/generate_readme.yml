@@ -49,11 +49,11 @@ jobs:
         run: |
           source venv/bin/activate
           python main.py ${{ secrets.G_T }} ${{ github.repository }} --issue_number '${{ github.event.issue.number }}'
-
-      - name: Push README
+        
+      - name: update readme
         run: |
           git config --local user.email "${{ env.GITHUB_EMAIL }}"
-          git config --local user.name "${{ env.GITHUB_NAME }}"
-          git add BACKUP/*.md
-          git commit -a -m 'update new blog' || echo "nothing to commit"
+          git config --local user.name "${{ env.GITHUB_EMAIL }}"
+          git add .
+          git commit -a -m '🎉update readme' || echo "nothing to commit"
           git push || echo "nothing to push"
