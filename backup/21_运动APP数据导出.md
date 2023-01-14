@@ -12,3 +12,6 @@
 
 > [最后，同步Huawei Health和Strava不再是锻炼](https://0xzx.com/2022090406132599844.html)
 这个没有……不知道是版本不对还是APP的下载地方不对
+
+> [第二次换跑步记录App](https://lusuzi.com/life/2nd-changed-the-running-record-app/)
+哎……这个也说可以，但是我没找到，iPhone和安卓都翻了个遍，为什么啊
