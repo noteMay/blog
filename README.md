@@ -82,7 +82,7 @@
 </details>
 
 ## TODO
-TODO list from [2023年想做的事情](https://github.com/noteMay/blog/issues/2)--10 jobs to do--2 jobs done
+TODO list from [2023年想做的事情](https://github.com/noteMay/blog/issues/2)--11 jobs to do--2 jobs done
 - [x] 用大佬的代码写打卡issues
 - [x] 更改链接的格式，使GitHub Page能显示完整
 - [ ] 拍更多照片
@@ -95,4 +95,5 @@ TODO list from [2023年想做的事情](https://github.com/noteMay/blog/issues/2
 - [ ] 锻炼身体
 - [ ] 早睡早起
 - [ ] 写一个页面展示我的打卡记录（获取issues最近更新时间）
+- [ ] 看海
 
