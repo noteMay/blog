@@ -1,4 +1,4 @@
-# [RedMi Watch 2](https://github.com/noteMay/noteMay.github.io/issues/20)
+# [RedMi Watch 2](https://github.com/noteMay/blog/issues/20)
 
 # 功能
 
@@ -29,3 +29,5 @@
 由于太便宜没有送充电器，自己买了个来用
 
 ![充电器](https://9852.ru/images/2023/01/07/Screenshot_2023-01-07-15-50-12-983_com.taobao.taobao.jpg)
+
+——2023-01-07记
