@@ -15,3 +15,6 @@
 
 > [第二次换跑步记录App](https://lusuzi.com/life/2nd-changed-the-running-record-app/)
 哎……这个也说可以，但是我没找到，iPhone和安卓都翻了个遍，为什么啊
+
+> [ios 的健康 app 和健身 app 是不是没有 apple watch 就没用了](https://v2ex.com/t/882087)
+怎么感觉只能围魏救赵了……嗨呀
