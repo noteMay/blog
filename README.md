@@ -83,6 +83,7 @@
 - [摸游戏](https://github.com/noteMay/blog/issues/10)--2023-01-08
 - [睡眠](https://github.com/noteMay/blog/issues/7)--2023-01-08
 - [追番](https://github.com/noteMay/blog/issues/4)--2023-01-08
+- [看视频](https://github.com/noteMay/blog/issues/3)--2023-01-08
 </details>
 
 ## TODO
