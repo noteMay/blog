@@ -2,6 +2,9 @@
 
 看一些乒乓球比赛，学技术
 
+> Zhou Kai vs Cristian Pletea<https://youtu.be/yy1LSxoKy3k>
+很势均力敌，第一局太精彩了，后面估计找到对方的弱点，对方也有点慌
+
 > Adrien Rassenfosse vs Lubomir Jancarik<https://youtu.be/NDfFILKuZBM>
 这俩看起来势均力敌
 
