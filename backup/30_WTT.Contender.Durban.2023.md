@@ -2,6 +2,9 @@
 
 看一些乒乓球比赛，学技术
 
+> Adrien Rassenfosse vs Lubomir Jancarik<https://youtu.be/NDfFILKuZBM>
+这俩看起来势均力敌
+
 > Zhang Rui/Kuai Man vs Qian Tianyi/Shi Xunyao<https://youtu.be/g9dqMLoj3jY>
 
 > Xue Fei/Qian Tianyi vs Lin Shidong/Kuai Man<https://youtu.be/OpBVq6G8kA8>
