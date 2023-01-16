@@ -2,6 +2,9 @@
 
 看一些乒乓球比赛，学技术
 
+> Xue Fei/Qian Tianyi vs Lin Shidong/Kuai Man<https://youtu.be/OpBVq6G8kA8>
+失误率也有点……诶？
+
 > Xu Yingbin/Xu Haidong vs Chen Yuanyu/Lin Shidong<https://youtu.be/xQmhgtztAo8>
 草……两边都失误率好高，只不过双XU失误率更高！
 
