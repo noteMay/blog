@@ -2,5 +2,8 @@
 
 看一些乒乓球比赛，学技术
 
+> Xu Yingbin/Xu Haidong vs Chen Yuanyu/Lin Shidong<https://youtu.be/xQmhgtztAo8>
+草……两边都失误率好高，只不过双XU失误率更高！
+
 > Fan Siqi vs Qian Tianyi<https://youtu.be/QaS1DeClKks>
 这两位的技术感觉应该是没有那么稳定的，能看出来失误率有点高
