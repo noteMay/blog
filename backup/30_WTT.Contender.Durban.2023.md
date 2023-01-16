@@ -2,6 +2,8 @@
 
 看一些乒乓球比赛，学技术
 
+> Zhang Rui/Kuai Man vs Qian Tianyi/Shi Xunyao<https://youtu.be/g9dqMLoj3jY>
+
 > Xue Fei/Qian Tianyi vs Lin Shidong/Kuai Man<https://youtu.be/OpBVq6G8kA8>
 失误率也有点……诶？
 
