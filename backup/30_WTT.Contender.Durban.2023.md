@@ -2,11 +2,7 @@
 
 看一些乒乓球比赛，学技术
 
-> 一些直播链接
-- T1：<https://www.youtube.com/watch?v=lFnKEzsa5JQ>
-- T2：<https://www.youtube.com/watch?v=sx6BCKst8_4>
-- T3：<https://www.youtube.com/watch?v=EOPHeoz3jyM>
-- T4：<https://www.youtube.com/watch?v=BMIs9vTo3Uo>
+> 直播链接：<https://www.youtube.com/@WTTGlobal/streams>
 
 > Zhou Kai vs Cristian Pletea<https://youtu.be/yy1LSxoKy3k>
 很势均力敌，第一局太精彩了，后面估计找到对方的弱点，对方也有点慌
