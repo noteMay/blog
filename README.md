@@ -42,7 +42,7 @@
 ## 兴趣
 - [乒乓球拍与胶皮](https://github.com/noteMay/blog/issues/34)--2023-01-21
 - [锻炼](https://github.com/noteMay/blog/issues/32)--2023-01-19
-- [WTT Contender Durban 2023](https://github.com/noteMay/blog/issues/30)--2023-01-16
+- [WTT Contender Doha 2023](https://github.com/noteMay/blog/issues/30)--2023-01-16
 - [运动APP数据导出](https://github.com/noteMay/blog/issues/21)--2023-01-13
 - [听歌](https://github.com/noteMay/blog/issues/18)--2023-01-11
 <details><summary>More</summary>
@@ -80,7 +80,7 @@
 - [海瓜子](https://github.com/noteMay/blog/issues/31)--2023-01-18
 <details><summary>More</summary>
 
-- [WTT Contender Durban 2023](https://github.com/noteMay/blog/issues/30)--2023-01-16
+- [WTT Contender Doha 2023](https://github.com/noteMay/blog/issues/30)--2023-01-16
 - [唠嗑](https://github.com/noteMay/blog/issues/29)--2023-01-15
 - [随便拍拍](https://github.com/noteMay/blog/issues/28)--2023-01-14
 - [实用网址](https://github.com/noteMay/blog/issues/27)--2023-01-14
