@@ -13,7 +13,7 @@
 ## New
 - [一条很重要又容易被忽视的做饭技巧合集](https://github.com/noteMay/blog/issues/35)--2023-01-21
 - [乒乓球拍与胶皮](https://github.com/noteMay/blog/issues/34)--2023-01-21
-- [乒乓球](https://github.com/noteMay/blog/issues/33)--2023-01-20
+- [乒乓球相关教程](https://github.com/noteMay/blog/issues/33)--2023-01-20
 - [锻炼](https://github.com/noteMay/blog/issues/32)--2023-01-19
 - [海瓜子](https://github.com/noteMay/blog/issues/31)--2023-01-18
 ## 2023
@@ -75,7 +75,7 @@
 ## 记录
 - [一条很重要又容易被忽视的做饭技巧合集](https://github.com/noteMay/blog/issues/35)--2023-01-21
 - [乒乓球拍与胶皮](https://github.com/noteMay/blog/issues/34)--2023-01-21
-- [乒乓球](https://github.com/noteMay/blog/issues/33)--2023-01-20
+- [乒乓球相关教程](https://github.com/noteMay/blog/issues/33)--2023-01-20
 - [锻炼](https://github.com/noteMay/blog/issues/32)--2023-01-19
 - [海瓜子](https://github.com/noteMay/blog/issues/31)--2023-01-18
 <details><summary>More</summary>
