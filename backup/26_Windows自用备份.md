@@ -16,3 +16,6 @@
 
 > [Bibata Modern Cursor](https://zhutix.com/ico/bibata-modern-cursor/)
 看起来还不错，不错不错，有大有小可以自己选择
+
+> [鱿鱼光标](https://zhutix.com/ico/squid-cursors/)
+还行
