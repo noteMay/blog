@@ -19,3 +19,6 @@
 
 > [鱿鱼光标](https://zhutix.com/ico/squid-cursors/)
 还行
+
+> [时间线黑色动态光标](https://zhutix.com/ico/shijian-hei-guang/)
+还算不错
