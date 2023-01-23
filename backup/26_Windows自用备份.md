@@ -26,3 +26,6 @@
 
 > [ArcStarry 弧形多彩光标](https://zhutix.com/ico/arcstarry-cursors/)
 还可以，用用看
+
+> [蓝色矢量光泽光标](https://zhutix.com/ico/vectorgloss-blue-cursors/)
+这个也不错，够大够亮！
