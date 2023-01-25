@@ -29,3 +29,6 @@
 
 > [蓝色矢量光泽光标](https://zhutix.com/ico/vectorgloss-blue-cursors/)
 这个也不错，够大够亮！
+
+> [青色光环](https://zhutix.com/ico/cyan-ring-sk/)
+透明度比较高……有点小，不过还挺好看的
