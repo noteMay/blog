@@ -11,11 +11,11 @@
 ## TOP
 - [2023-01](https://github.com/noteMay/blog/issues/6)--2023-01-08
 ## New
+- [待看](https://github.com/noteMay/blog/issues/40)--2023-01-25
 - [睡眠记录……](https://github.com/noteMay/blog/issues/39)--2023-01-25
 - [备份手机](https://github.com/noteMay/blog/issues/38)--2023-01-25
 - [做饭炒菜视频](https://github.com/noteMay/blog/issues/37)--2023-01-23
 - [APP买菜记录](https://github.com/noteMay/blog/issues/36)--2023-01-22
-- [一条很重要又容易被忽视的做饭技巧合集](https://github.com/noteMay/blog/issues/35)--2023-01-21
 ## 2023
 - [唠嗑](https://github.com/noteMay/blog/issues/29)--2023-01-15
 - [运动APP数据导出](https://github.com/noteMay/blog/issues/21)--2023-01-13
@@ -115,6 +115,9 @@
 </details>
 
 ## TODO
+TODO list from [待看](https://github.com/noteMay/blog/issues/40)--1 jobs to do--0 jobs done
+- [ ] [魅力纪录：花豹女王](https://www.bilibili.com/video/BV1Gs411a76W/)
+
 TODO list from [2023年想做的事情](https://github.com/noteMay/blog/issues/2)--14 jobs to do--2 jobs done
 - [x] 用大佬的代码写打卡issues
 - [x] 更改链接的格式，使GitHub Page能显示完整
