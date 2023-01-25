@@ -115,7 +115,7 @@
 </details>
 
 ## TODO
-TODO list from [2023年想做的事情](https://github.com/noteMay/blog/issues/2)--13 jobs to do--2 jobs done
+TODO list from [2023年想做的事情](https://github.com/noteMay/blog/issues/2)--14 jobs to do--2 jobs done
 - [x] 用大佬的代码写打卡issues
 - [x] 更改链接的格式，使GitHub Page能显示完整
 - [ ] 拍更多照片
@@ -131,4 +131,5 @@ TODO list from [2023年想做的事情](https://github.com/noteMay/blog/issues/2
 - [ ] 看海
 - [ ] 出去旅游或者去与人见面
 - [ ] 组建NAS
+- [ ] 编一首曲子
 
