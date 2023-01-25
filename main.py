@@ -14,7 +14,7 @@ MD_HEAD = """**<p align="center">[May's Blog](https://blog.9852.life/)</p>**
 [![](https://9852.ru/images/2022/12/23/9852.life.png)](https://blog.9852.life/)
 
 ## 联系方式
-- Email：[9852.life@gmail.com](mailto:9852.life@gmail.com)
+- Email：[9852life@gmail.com](mailto:9852life@gmail.com)
 - Blog：[https://blog.9852.life/](https://blog.9852.life/)
 - RSS：[RSS Feed](https://raw.githubusercontent.com/{repo_name}/master/feed.xml)
 """
