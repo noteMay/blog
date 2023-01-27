@@ -11,11 +11,11 @@
 ## TOP
 - [2023-01](https://github.com/noteMay/blog/issues/6)--2023-01-08
 ## New
+- [明日方舟助战干员](https://github.com/noteMay/blog/issues/41)--2023-01-27
 - [待看](https://github.com/noteMay/blog/issues/40)--2023-01-25
 - [备份手机](https://github.com/noteMay/blog/issues/38)--2023-01-25
 - [做饭炒菜视频](https://github.com/noteMay/blog/issues/37)--2023-01-23
 - [APP买菜记录](https://github.com/noteMay/blog/issues/36)--2023-01-22
-- [一条很重要又容易被忽视的做饭技巧合集](https://github.com/noteMay/blog/issues/35)--2023-01-21
 ## 2023
 - [唠嗑](https://github.com/noteMay/blog/issues/29)--2023-01-15
 - [运动APP数据导出](https://github.com/noteMay/blog/issues/21)--2023-01-13
@@ -60,6 +60,7 @@
 - [作曲写歌创作入门第二课](https://github.com/noteMay/blog/issues/23)--2023-01-13
 - [作曲写歌创作入门第一课](https://github.com/noteMay/blog/issues/19)--2023-01-12
 ## 游戏
+- [明日方舟助战干员](https://github.com/noteMay/blog/issues/41)--2023-01-27
 - [明日方舟会客室线索获取](https://github.com/noteMay/blog/issues/12)--2023-01-08
 - [摸游戏](https://github.com/noteMay/blog/issues/10)--2023-01-08
 ## 生活
