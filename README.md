@@ -9,6 +9,7 @@
 - Blog：[https://blog.9852.life/](https://blog.9852.life/)
 - RSS：[RSS Feed](https://raw.githubusercontent.com/noteMay/blog/master/feed.xml)
 ## TOP
+- [运动记录](https://github.com/noteMay/blog/issues/15)--2023-01-10
 - [2023-01](https://github.com/noteMay/blog/issues/6)--2023-01-08
 ## New
 - [明日方舟干员技能](https://github.com/noteMay/blog/issues/42)--2023-01-27
@@ -38,6 +39,7 @@
 ## Links
 - [链接](https://github.com/noteMay/blog/issues/8)--2023-01-08
 ## TOP
+- [运动记录](https://github.com/noteMay/blog/issues/15)--2023-01-10
 - [2023-01](https://github.com/noteMay/blog/issues/6)--2023-01-08
 ## 兴趣
 - [乒乓球拍与胶皮](https://github.com/noteMay/blog/issues/34)--2023-01-21
