@@ -15,3 +15,4 @@
 |[蓝色矢量光泽光标](https://zhutix.com/ico/vectorgloss-blue-cursors/)|这个也不错，够大够亮！|
 |[青色光环](https://zhutix.com/ico/cyan-ring-sk/)|透明度比较高……有点小，不过还挺好看的|
 |[任天堂明星大乱斗终极光标](https://zhutix.com/ico/super-smash-bros-ultimate-cursor/)|还不错，可惜没有大号一点的|
+|[像素宝石光标](https://zhutix.com/ico/rainbow-unicorn/)|不咋滴，颜色不好|
