@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/noteMay/blog</id><title>RSS feed of noteMay's blog</title><updated>2023-01-30T11:45:02.952320+00:00</updated><author><name>noteMay</name><email>note9852@outlook.com</email></author><link href="https://github.com/noteMay/blog"/><link href="https://raw.githubusercontent.com/noteMay/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/noteMay/blog/issues/43</id><title>iWatch</title><updated>2023-01-30T11:45:03.390320+00:00</updated><content type="html"><![CDATA[<p>换了个Apple Watch Series 3</p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/noteMay/blog</id><title>RSS feed of noteMay's blog</title><updated>2023-01-30T15:41:25.207234+00:00</updated><author><name>noteMay</name><email>note9852@outlook.com</email></author><link href="https://github.com/noteMay/blog"/><link href="https://raw.githubusercontent.com/noteMay/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/noteMay/blog/issues/43</id><title>iWatch</title><updated>2023-01-30T15:41:25.538168+00:00</updated><content type="html"><![CDATA[<p>换了个Apple Watch Series 3</p>
 <p>是本地自提，一位老哥18年买的，整体成色还不错，就是电池健康度剩下87%了</p>
 <p>试了试还不错的，就是没有血氧，不过不要紧！</p>
 <p>血氧好像是S6才有，这个跟我的iPhone7s没什么关系JPG</p>
 <p>先试用一周看看——2023-01-30记</p>
-]]></content><link href="https://github.com/noteMay/blog/issues/43" rel="alternate"/><category term="生活"/><category term="记录"/><published>2023-01-30T11:44:32+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/42</id><title>明日方舟干员技能</title><updated>2023-01-30T11:45:03.516451+00:00</updated><content type="html"><![CDATA[<table>
+]]></content><link href="https://github.com/noteMay/blog/issues/43" rel="alternate"/><category term="生活"/><category term="记录"/><published>2023-01-30T11:44:32+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/42</id><title>明日方舟干员技能</title><updated>2023-01-30T15:41:25.649693+00:00</updated><content type="html"><![CDATA[<table>
 <thead>
 <tr>
 <th align="center">干员</th>
@@ -128,7 +128,7 @@
 <td align="center">2</td>
 <td align="center">2</td>
 </tr>
-</tbody></table>]]></content><link href="https://github.com/noteMay/blog/issues/42" rel="alternate"/><category term="游戏"/><published>2023-01-27T06:03:38+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/41</id><title>明日方舟助战干员</title><updated>2023-01-30T11:45:03.805262+00:00</updated><content type="html"><![CDATA[<!-- more -->
+</tbody></table>]]></content><link href="https://github.com/noteMay/blog/issues/42" rel="alternate"/><category term="游戏"/><published>2023-01-27T06:03:38+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/41</id><title>明日方舟助战干员</title><updated>2023-01-30T15:41:25.752190+00:00</updated><content type="html"><![CDATA[<!-- more -->
 <!-- more -->
 <h1>国服官服</h1>
 <h2>1507463</h2>
@@ -162,12 +162,15 @@
 <p><img src="https://img.xn--5ivs9a.work/images/2022/11/18/91414615.png" alt="" /></p>
 <h2>94013319</h2>
 <p><img src="https://img.xn--5ivs9a.work/images/2022/11/19/94013319.jpg" alt="" /></p>
-]]></content><link href="https://github.com/noteMay/blog/issues/41" rel="alternate"/><category term="游戏"/><published>2023-01-27T05:45:52+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/40</id><title>待看</title><updated>2023-01-30T11:45:03.988757+00:00</updated><content type="html"><![CDATA[<h1>纪录片</h1>
+]]></content><link href="https://github.com/noteMay/blog/issues/41" rel="alternate"/><category term="游戏"/><published>2023-01-27T05:45:52+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/40</id><title>待看</title><updated>2023-01-30T15:41:25.876548+00:00</updated><content type="html"><![CDATA[<h1>纪录片</h1>
 <ul>
-<li><input disabled="" type="checkbox"> <a href="https://www.bilibili.com/video/BV1Gs411a76W/">魅力纪录：花豹女王</a></li>
+<li><input checked="" disabled="" type="checkbox"> <a href="https://www.bilibili.com/video/BV1Gs411a76W/">魅力纪录：花豹女王</a></li>
+</ul>
+<p>哎，不容易啊</p>
+<ul>
 <li><input disabled="" type="checkbox"> 《纪录片编辑室》 <a href="http://jishi.cctv.com/2016/06/29/VIDEkf7hLfh7M6cK1oRJQbbF160629.shtml">20160629 含泪活着·上</a></li>
 </ul>
-]]></content><link href="https://github.com/noteMay/blog/issues/40" rel="alternate"/><category term="TODO"/><published>2023-01-25T18:24:45+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/38</id><title>备份手机</title><updated>2023-01-30T11:45:04.091404+00:00</updated><content type="html"><![CDATA[<p>备份手机刷系统！当然是折腾之前买的iPhone7s</p>
+]]></content><link href="https://github.com/noteMay/blog/issues/40" rel="alternate"/><category term="TODO"/><published>2023-01-25T18:24:45+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/38</id><title>备份手机</title><updated>2023-01-30T15:41:25.996937+00:00</updated><content type="html"><![CDATA[<p>备份手机刷系统！当然是折腾之前买的iPhone7s</p>
 <p>因为iOS系统……突然发现除了iCloud之外的备份手段有点少，就来找比较靠谱的备份方法</p>
 <p>主要是备份短信，因为其他的都有方法备份</p>
 <p><code>通讯录</code>丢网盘或者换机APP就行了
@@ -182,7 +185,7 @@
 </blockquote>
 <p>结合这两篇总结下来就是iMazing和iTunes
 先试试看iMazing……iTunes没什么兴趣</p>
-]]></content><link href="https://github.com/noteMay/blog/issues/38" rel="alternate"/><category term="记录"/><published>2023-01-25T15:40:37+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/37</id><title>做饭炒菜视频</title><updated>2023-01-30T11:45:04.185122+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/noteMay/blog/issues/38" rel="alternate"/><category term="记录"/><published>2023-01-25T15:40:37+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/37</id><title>做饭炒菜视频</title><updated>2023-01-30T15:41:26.093716+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>花甲想鲜美好吃，切记不要直接焯水，分享海边人不加一滴水的做法<a href="https://www.bilibili.com/video/BV1td4y1W7em">https://www.bilibili.com/video/BV1td4y1W7em</a>
 还行，算是不错的教程</p>
 </blockquote>
@@ -190,8 +193,8 @@
 <p>煮饺子时，用冷水和开水都错了，教你正确方法，饺子不破皮不粘锅<a href="https://www.bilibili.com/video/BV1YP4y1r73d">https://www.bilibili.com/video/BV1YP4y1r73d</a>
 看起来有点复杂……都用速冻饺子了……估计能做到这样的也不必用速冻饺子</p>
 </blockquote>
-]]></content><link href="https://github.com/noteMay/blog/issues/37" rel="alternate"/><category term="美食"/><category term="记录"/><published>2023-01-23T14:07:13+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/36</id><title>APP买菜记录</title><updated>2023-01-30T11:45:04.290936+00:00</updated><content type="html"><![CDATA[<p>在各种APP买菜的记录</p>
-]]></content><link href="https://github.com/noteMay/blog/issues/36" rel="alternate"/><category term="美食"/><category term="记录"/><published>2023-01-22T16:49:55+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/35</id><title>一条很重要又容易被忽视的做饭技巧合集</title><updated>2023-01-30T11:45:04.388483+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/noteMay/blog/issues/37" rel="alternate"/><category term="美食"/><category term="记录"/><published>2023-01-23T14:07:13+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/36</id><title>APP买菜记录</title><updated>2023-01-30T15:41:26.214079+00:00</updated><content type="html"><![CDATA[<p>在各种APP买菜的记录</p>
+]]></content><link href="https://github.com/noteMay/blog/issues/36" rel="alternate"/><category term="美食"/><category term="记录"/><published>2023-01-22T16:49:55+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/35</id><title>一条很重要又容易被忽视的做饭技巧合集</title><updated>2023-01-30T15:41:26.320717+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>Cr·知乎刘小鹿
 <a href="https://user.qzone.qq.com/12395798/">https://user.qzone.qq.com/12395798/</a></p>
 </blockquote>
@@ -226,7 +229,7 @@
 〔29〕炒方便面的面只能8分熟，不要全熟。水开之后下面，到面饼能打散，立刻捞出来，过凉水。炒方便面的调料加一点豆瓣酱更好吃，也可以用辣椒酱。加生抽老抽蚝油和糖。
 〔30〕汤里面打蛋花，要在锅开了之后，关火打入蛋花。
 〔31〕起锅的时候再加盐和醋，过早加盐，蔬菜里的水分析出来，口感黏软；醋易挥发，先加的话会破坏色泽和口感。</p>
-]]></content><link href="https://github.com/noteMay/blog/issues/35" rel="alternate"/><category term="美食"/><category term="记录"/><published>2023-01-21T17:26:24+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/34</id><title>乒乓球拍与胶皮</title><updated>2023-01-30T11:45:04.507714+00:00</updated><content type="html"><![CDATA[<h1>2020至2022年用的胶皮</h1>
+]]></content><link href="https://github.com/noteMay/blog/issues/35" rel="alternate"/><category term="美食"/><category term="记录"/><published>2023-01-21T17:26:24+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/34</id><title>乒乓球拍与胶皮</title><updated>2023-01-30T15:41:26.701718+00:00</updated><content type="html"><![CDATA[<h1>2020至2022年用的胶皮</h1>
 <blockquote>
 <p>红双喜R6002<code>狂飙3＋天弓</code>
 之前换球拍随便买的，用着还行吧
@@ -288,7 +291,7 @@
 <td align="center"><img src="https://9852.ru/images/2023/01/28/20230128145550.jpg" alt="劲极7" /></td>
 <td align="center"><img src="https://9852.ru/images/2023/01/28/20230128145544.jpg" alt="劲极7拆" /></td>
 </tr>
-</tbody></table>]]></content><link href="https://github.com/noteMay/blog/issues/34" rel="alternate"/><category term="兴趣"/><category term="记录"/><published>2023-01-21T12:55:47+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/33</id><title>乒乓球相关教程</title><updated>2023-01-30T11:45:04.649919+00:00</updated><content type="html"><![CDATA[<blockquote>
+</tbody></table>]]></content><link href="https://github.com/noteMay/blog/issues/34" rel="alternate"/><category term="兴趣"/><category term="记录"/><published>2023-01-21T12:55:47+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/33</id><title>乒乓球相关教程</title><updated>2023-01-30T15:41:26.855501+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>中国乒乓球协会<a href="https://www.ctta.cn/">https://www.ctta.cn/</a>
 开球网<a href="https://www.kaiqiu.cc/">https://www.kaiqiu.cc/</a>
 乒乓网<a href="https://www.pingpangwang.com/">https://www.pingpangwang.com/</a>
@@ -378,14 +381,14 @@
 <p>乒乓球运动的基本功对初学者的重要性<a href="https://www.pingpangwang.com/forum.php?mod=viewthread&amp;tid=9400">https://www.pingpangwang.com/forum.php?mod=viewthread&amp;tid=9400</a>
 基本功真的好重要……今年要争取锻炼一下基本功了</p>
 </blockquote>
-]]></content><link href="https://github.com/noteMay/blog/issues/33" rel="alternate"/><category term="兴趣"/><category term="记录"/><published>2023-01-20T16:41:11+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/32</id><title>锻炼</title><updated>2023-01-30T11:45:04.769575+00:00</updated><content type="html"><![CDATA[<h1>拉伸手腕</h1>
+]]></content><link href="https://github.com/noteMay/blog/issues/33" rel="alternate"/><category term="兴趣"/><category term="记录"/><published>2023-01-20T16:41:11+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/32</id><title>锻炼</title><updated>2023-01-30T15:41:26.983377+00:00</updated><content type="html"><![CDATA[<h1>拉伸手腕</h1>
 <p><a href="https://weibo.com/1720962692/Mp4OKF1yS">https://weibo.com/1720962692/Mp4OKF1yS</a>
 注意力度，可以拉伸</p>
-]]></content><link href="https://github.com/noteMay/blog/issues/32" rel="alternate"/><category term="兴趣"/><category term="生活"/><category term="记录"/><published>2023-01-19T15:57:47+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/31</id><title>海瓜子</title><updated>2023-01-30T11:45:04.893986+00:00</updated><content type="html"><![CDATA[<h1>海瓜子</h1>
+]]></content><link href="https://github.com/noteMay/blog/issues/32" rel="alternate"/><category term="兴趣"/><category term="生活"/><category term="记录"/><published>2023-01-19T15:57:47+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/31</id><title>海瓜子</title><updated>2023-01-30T15:41:27.163082+00:00</updated><content type="html"><![CDATA[<h1>海瓜子</h1>
 <p><a href="https://www.sohu.com/a/340695960_799260">这三种小海鲜，都叫“海瓜子” </a></p>
 <p>不看不知道……原来大家都是海瓜子……</p>
 <p>以前只知道薄壳<code>👈潮汕话</code>叫海瓜子，现在知道学名叫寻氏肌蛤，又顺便知道了其他的海瓜子</p>
-]]></content><link href="https://github.com/noteMay/blog/issues/31" rel="alternate"/><category term="美食"/><category term="记录"/><published>2023-01-18T16:24:57+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/30</id><title>WTT Contender Doha 2023</title><updated>2023-01-30T11:45:05.031019+00:00</updated><content type="html"><![CDATA[<p>看一些乒乓球比赛，学技术</p>
+]]></content><link href="https://github.com/noteMay/blog/issues/31" rel="alternate"/><category term="美食"/><category term="记录"/><published>2023-01-18T16:24:57+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/30</id><title>WTT Contender Doha 2023</title><updated>2023-01-30T15:41:27.278347+00:00</updated><content type="html"><![CDATA[<p>看一些乒乓球比赛，学技术</p>
 <blockquote>
 <p>直播链接：<a href="https://www.youtube.com/@WTTGlobal/streams">https://www.youtube.com/@WTTGlobal/streams</a></p>
 </blockquote>
@@ -412,7 +415,7 @@
 <p>Fan Siqi vs Qian Tianyi<a href="https://youtu.be/QaS1DeClKks">https://youtu.be/QaS1DeClKks</a>
 这两位的技术感觉应该是没有那么稳定的，能看出来失误率有点高</p>
 </blockquote>
-]]></content><link href="https://github.com/noteMay/blog/issues/30" rel="alternate"/><category term="兴趣"/><category term="记录"/><published>2023-01-16T03:25:05+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/29</id><title>唠嗑</title><updated>2023-01-30T11:45:05.140225+00:00</updated><content type="html"><![CDATA[<h1>2023-01-30</h1>
+]]></content><link href="https://github.com/noteMay/blog/issues/30" rel="alternate"/><category term="兴趣"/><category term="记录"/><published>2023-01-16T03:25:05+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/29</id><title>唠嗑</title><updated>2023-01-30T15:41:27.490114+00:00</updated><content type="html"><![CDATA[<h1>2023-01-30</h1>
 <p>这几天确实快件不多嘞，还能接受，早睡早起就行！</p>
 <h1>2023-01-29</h1>
 <p>嗷，周一到周五10-19点，加油努力！！！</p>
@@ -517,7 +520,7 @@ iWatch抹除数据<a href="https://discussionschinese.apple.com/thread/252969588
 这™是嫁了个胎盘吧</p>
 </blockquote>
 <p>工作……哎，又因为一些简单的快件忙碌到超时下班，烦死了！能不能自觉点啊！</p>
-]]></content><link href="https://github.com/noteMay/blog/issues/29" rel="alternate"/><category term="2023"/><category term="记录"/><published>2023-01-15T17:38:16+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/28</id><title>随便拍拍</title><updated>2023-01-30T11:45:05.311099+00:00</updated><content type="html"><![CDATA[<h1>2021</h1>
+]]></content><link href="https://github.com/noteMay/blog/issues/29" rel="alternate"/><category term="2023"/><category term="记录"/><published>2023-01-15T17:38:16+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/28</id><title>随便拍拍</title><updated>2023-01-30T15:41:27.610582+00:00</updated><content type="html"><![CDATA[<h1>2021</h1>
 <blockquote>
 <p>拍摄设备：红米Note 9 4G</p>
 </blockquote>
@@ -525,7 +528,7 @@ iWatch抹除数据<a href="https://discussionschinese.apple.com/thread/252969588
 <p><img src="https://9852.ru/images/2022/12/25/20210614.jpg" alt="2021-06-14" /></p>
 <h2>2021-07-04</h2>
 <p><img src="https://9852.ru/images/2022/12/25/20210704.jpg" alt="2021-07-04" /></p>
-]]></content><link href="https://github.com/noteMay/blog/issues/28" rel="alternate"/><category term="记录"/><published>2023-01-14T18:25:17+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/27</id><title>实用网址</title><updated>2023-01-30T11:45:05.427823+00:00</updated><content type="html"><![CDATA[<h1>“捡垃圾”</h1>
+]]></content><link href="https://github.com/noteMay/blog/issues/28" rel="alternate"/><category term="记录"/><published>2023-01-14T18:25:17+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/27</id><title>实用网址</title><updated>2023-01-30T15:41:27.701699+00:00</updated><content type="html"><![CDATA[<h1>“捡垃圾”</h1>
 <blockquote>
 <p><a href="https://mp.weixin.qq.com/s/yyDCILA60m7dGU6o4TUVBg">【open car】1T固态终来到249元</a></p>
 </blockquote>
@@ -591,7 +594,7 @@ NAS和各种SSD盘</p>
 <p>海鲜解冻
 <a href="https://weibo.com/2522334710/Lc4cN0RHL">https://weibo.com/2522334710/Lc4cN0RHL</a></p>
 </blockquote>
-]]></content><link href="https://github.com/noteMay/blog/issues/27" rel="alternate"/><category term="记录"/><published>2023-01-14T17:34:21+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/26</id><title>Windows自用备份</title><updated>2023-01-30T11:45:05.545666+00:00</updated><content type="html"><![CDATA[<h1>鼠标指针</h1>
+]]></content><link href="https://github.com/noteMay/blog/issues/27" rel="alternate"/><category term="记录"/><published>2023-01-14T17:34:21+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/26</id><title>Windows自用备份</title><updated>2023-01-30T15:41:27.815150+00:00</updated><content type="html"><![CDATA[<h1>鼠标指针</h1>
 <table>
 <thead>
 <tr>
@@ -648,7 +651,7 @@ NAS和各种SSD盘</p>
 <td align="center"><a href="https://zhutix.com/ico/rainbow-unicorn/">像素宝石光标</a></td>
 <td align="center">不咋滴，颜色不好</td>
 </tr>
-</tbody></table>]]></content><link href="https://github.com/noteMay/blog/issues/26" rel="alternate"/><category term="记录"/><published>2023-01-14T17:32:57+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/25</id><title>看新闻</title><updated>2023-01-30T11:45:05.645208+00:00</updated><content type="html"><![CDATA[<p>没事看点新闻，增加血压</p>
+</tbody></table>]]></content><link href="https://github.com/noteMay/blog/issues/26" rel="alternate"/><category term="记录"/><published>2023-01-14T17:32:57+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/25</id><title>看新闻</title><updated>2023-01-30T15:41:27.937626+00:00</updated><content type="html"><![CDATA[<p>没事看点新闻，增加血压</p>
 <blockquote>
 <p>#警方通报一男子持刀行凶致6人死亡案件#<a href="https://weibo.com/1686546714/Mp41Vmddq">https://weibo.com/1686546714/Mp41Vmddq</a>
 靠啊，年关将近，什么狗东西，关久点</p>
@@ -742,7 +745,7 @@ NAS和各种SSD盘</p>
 <p>22岁女生熟睡时从宿舍上铺坠亡<a href="https://weibo.com/1720962692/Mo63AA5Vg">https://weibo.com/1720962692/Mo63AA5Vg</a>
 15cm的护栏……大学？我中专的护栏都比你这高</p>
 </blockquote>
-]]></content><link href="https://github.com/noteMay/blog/issues/25" rel="alternate"/><category term="记录"/><published>2023-01-13T17:55:26+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/24</id><title>作曲写歌创作入门第三课</title><updated>2023-01-30T11:45:05.791621+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/noteMay/blog/issues/25" rel="alternate"/><category term="记录"/><published>2023-01-13T17:55:26+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/24</id><title>作曲写歌创作入门第三课</title><updated>2023-01-30T15:41:28.076519+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>课程：<a href="https://www.bilibili.com/video/BV1c4411t7ja">【伯克利音乐学院】作曲写歌创作入门 --中文51集</a></p>
 </blockquote>
 <p>于2022年学习，暂时搁置中</p>
@@ -848,7 +851,7 @@ I&#x27;m at rest
 同一性给你重复，而不是押韵的感觉，所以没有押韵的功能（不同声母、同样的韵母，为押韵）</p>
 <h2>观看进度</h2>
 <p><a href="https://www.bilibili.com/video/BV1c4411t7ja?p=17">https://www.bilibili.com/video/BV1c4411t7ja?p=17</a></p>
-]]></content><link href="https://github.com/noteMay/blog/issues/24" rel="alternate"/><category term="学习"/><category term="记录"/><published>2023-01-13T16:32:11+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/23</id><title>作曲写歌创作入门第二课</title><updated>2023-01-30T11:45:05.926847+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/noteMay/blog/issues/24" rel="alternate"/><category term="学习"/><category term="记录"/><published>2023-01-13T16:32:11+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/23</id><title>作曲写歌创作入门第二课</title><updated>2023-01-30T15:41:28.186623+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>课程：<a href="https://www.bilibili.com/video/BV1c4411t7ja">【伯克利音乐学院】作曲写歌创作入门 --中文51集</a></p>
 </blockquote>
 <p>于2022年学习，暂时搁置中</p>
@@ -983,7 +986,7 @@ I&#x27;m at rest
 <p>有点难消化，不懂的时候再看一次好了<a href="https://www.bilibili.com/video/BV1c4411t7ja?p=13">https://www.bilibili.com/video/BV1c4411t7ja?p=13</a></p>
 <h2>个人总结</h2>
 <p>等待填写</p>
-]]></content><link href="https://github.com/noteMay/blog/issues/23" rel="alternate"/><category term="学习"/><category term="记录"/><published>2023-01-13T16:31:08+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/22</id><title>2022百大</title><updated>2023-01-30T11:45:06.078145+00:00</updated><content type="html"><![CDATA[<p>看看有没有认识的</p>
+]]></content><link href="https://github.com/noteMay/blog/issues/23" rel="alternate"/><category term="学习"/><category term="记录"/><published>2023-01-13T16:31:08+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/22</id><title>2022百大</title><updated>2023-01-30T15:41:28.313492+00:00</updated><content type="html"><![CDATA[<p>看看有没有认识的</p>
 <blockquote>
 <p>年度原创作品：盗月社《超级外卖》
 这个确实很好看！</p>
@@ -996,7 +999,7 @@ I&#x27;m at rest
 年度多元创新：影视飓风
 年度黑马UP主：山城小栗旬</p>
 </blockquote>
-]]></content><link href="https://github.com/noteMay/blog/issues/22" rel="alternate"/><category term="记录"/><published>2023-01-13T12:31:50+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/21</id><title>运动APP数据导出</title><updated>2023-01-30T11:45:06.226725+00:00</updated><content type="html"><![CDATA[<p>之前用的华为手环，现在用红米手表，找这两个都可以导出的APP</p>
+]]></content><link href="https://github.com/noteMay/blog/issues/22" rel="alternate"/><category term="记录"/><published>2023-01-13T12:31:50+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/21</id><title>运动APP数据导出</title><updated>2023-01-30T15:41:28.533072+00:00</updated><content type="html"><![CDATA[<p>之前用的华为手环，现在用红米手表，找这两个都可以导出的APP</p>
 <p>又因为骑行加入了Strava，Strava可以通过导入谷歌健康的数据……所以就看看有什么方法给导入到谷歌健康里去</p>
 <h2>一些参考资料</h2>
 <blockquote>
@@ -1021,7 +1024,7 @@ I&#x27;m at rest
 </blockquote>
 <h2>2023-01-15</h2>
 <p>暂时没找到最佳方案……还会继续找的</p>
-]]></content><link href="https://github.com/noteMay/blog/issues/21" rel="alternate"/><category term="2023"/><category term="兴趣"/><published>2023-01-13T10:31:55+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/20</id><title>RedMi Watch 2</title><updated>2023-01-30T11:45:06.327656+00:00</updated><content type="html"><![CDATA[<h1>功能</h1>
+]]></content><link href="https://github.com/noteMay/blog/issues/21" rel="alternate"/><category term="2023"/><category term="兴趣"/><published>2023-01-13T10:31:55+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/20</id><title>RedMi Watch 2</title><updated>2023-01-30T15:41:28.661777+00:00</updated><content type="html"><![CDATA[<h1>功能</h1>
 <p>跟Watch1差不多吧，总体上来说比1实用性高很多</p>
 <p>多了血氧、GPS等功能，睡眠也更完善，系统菜单也不是PPT</p>
 <p>不过它的卡路里检测有点问题吧，我在家里坐着，卡路里天上来哈哈哈哈</p>
@@ -1037,7 +1040,7 @@ I&#x27;m at rest
 <p>由于太便宜没有送充电器，自己买了个来用</p>
 <p><img src="https://9852.ru/images/2023/01/07/Screenshot_2023-01-07-15-50-12-983_com.taobao.taobao.jpg" alt="充电器" /></p>
 <p>——2023-01-07记</p>
-]]></content><link href="https://github.com/noteMay/blog/issues/20" rel="alternate"/><category term="2023"/><category term="生活"/><published>2023-01-12T14:08:26+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/19</id><title>作曲写歌创作入门第一课</title><updated>2023-01-30T11:45:06.511754+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/noteMay/blog/issues/20" rel="alternate"/><category term="2023"/><category term="生活"/><published>2023-01-12T14:08:26+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/19</id><title>作曲写歌创作入门第一课</title><updated>2023-01-30T15:41:28.777760+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>课程：<a href="https://www.bilibili.com/video/BV1c4411t7ja">【伯克利音乐学院】作曲写歌创作入门 --中文51集</a></p>
 </blockquote>
 <p>于2022年学习，暂时搁置中</p>
@@ -1142,7 +1145,7 @@ I&#x27;m at rest
 把想要表达的东西或情感或故事填进去，再慢慢考虑顺序以及是否合适
 感情发展不要太快，要循序渐进
 ——2022年8月17日</p>
-]]></content><link href="https://github.com/noteMay/blog/issues/19" rel="alternate"/><category term="学习"/><category term="记录"/><published>2023-01-12T08:33:24+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/18</id><title>听歌</title><updated>2023-01-30T11:45:06.701046+00:00</updated><content type="html"><![CDATA[<p>听的歌比较杂，比较喜欢的也不少</p>
+]]></content><link href="https://github.com/noteMay/blog/issues/19" rel="alternate"/><category term="学习"/><category term="记录"/><published>2023-01-12T08:33:24+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/18</id><title>听歌</title><updated>2023-01-30T15:41:28.976041+00:00</updated><content type="html"><![CDATA[<p>听的歌比较杂，比较喜欢的也不少</p>
 <h1>泰剧</h1>
 <blockquote>
 <p>ของรักของหวง (เพลงประกอบละครรากแก้วช่อง 3)
@@ -1198,12 +1201,12 @@ I&#x27;m at rest
 <code>森なな子</code>
 狗狗的个人曲，好听！</p>
 </blockquote>
-]]></content><link href="https://github.com/noteMay/blog/issues/18" rel="alternate"/><category term="2023"/><category term="兴趣"/><published>2023-01-11T10:16:14+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/17</id><title>树洞！慎点！</title><updated>2023-01-30T11:45:06.838953+00:00</updated><content type="html"><![CDATA[<p>垃圾堆</p>
-]]></content><link href="https://github.com/noteMay/blog/issues/17" rel="alternate"/><published>2023-01-11T09:22:19+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/16</id><title>麦当当</title><updated>2023-01-30T11:45:07.023436+00:00</updated><content type="html"><![CDATA[<h1>早餐卡</h1>
+]]></content><link href="https://github.com/noteMay/blog/issues/18" rel="alternate"/><category term="2023"/><category term="兴趣"/><published>2023-01-11T10:16:14+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/17</id><title>树洞！慎点！</title><updated>2023-01-30T15:41:29.075995+00:00</updated><content type="html"><![CDATA[<p>垃圾堆</p>
+]]></content><link href="https://github.com/noteMay/blog/issues/17" rel="alternate"/><published>2023-01-11T09:22:19+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/16</id><title>麦当当</title><updated>2023-01-30T15:41:29.189856+00:00</updated><content type="html"><![CDATA[<h1>早餐卡</h1>
 <p><img src="https://9852.ru/images/2023/01/10/mdl01.jpg" alt="" />
 <img src="https://9852.ru/images/2023/01/10/mdl02.jpg" alt="" />
 <img src="https://9852.ru/images/2023/01/10/mdl03.jpg" alt="" /></p>
-]]></content><link href="https://github.com/noteMay/blog/issues/16" rel="alternate"/><category term="美食"/><published>2023-01-10T18:07:20+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/15</id><title>运动记录</title><updated>2023-01-30T11:45:07.120909+00:00</updated><content type="html"><![CDATA[<p><a href="https://blog.9852.life/#/posts/15">https://blog.9852.life/#/posts/15</a></p>
+]]></content><link href="https://github.com/noteMay/blog/issues/16" rel="alternate"/><category term="美食"/><published>2023-01-10T18:07:20+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/15</id><title>运动记录</title><updated>2023-01-30T15:41:29.287961+00:00</updated><content type="html"><![CDATA[<p><a href="https://blog.9852.life/#/posts/15">https://blog.9852.life/#/posts/15</a></p>
 <table>
 <thead>
 <tr>
@@ -1341,7 +1344,7 @@ I&#x27;m at rest
 <td align="center"><img src="https://9852.ru/images/2023/01/26/2023_01_26_17_59_IMG_3053.jpg" alt="16" /></td>
 <td align="center"></td>
 </tr>
-</tbody></table>]]></content><link href="https://github.com/noteMay/blog/issues/15" rel="alternate"/><category term="2023"/><category term="TOP"/><category term="记录"/><published>2023-01-10T17:45:46+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/14</id><title>看剧</title><updated>2023-01-30T11:45:07.224999+00:00</updated><content type="html"><![CDATA[<table>
+</tbody></table>]]></content><link href="https://github.com/noteMay/blog/issues/15" rel="alternate"/><category term="2023"/><category term="TOP"/><category term="记录"/><published>2023-01-10T17:45:46+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/14</id><title>看剧</title><updated>2023-01-30T15:41:29.392182+00:00</updated><content type="html"><![CDATA[<table>
 <thead>
 <tr>
 <th align="center">剧名</th>
@@ -1353,7 +1356,7 @@ I&#x27;m at rest
 <td align="center">粉红理论</td>
 <td align="center">每周六晚上十二点</td>
 </tr>
-</tbody></table>]]></content><link href="https://github.com/noteMay/blog/issues/14" rel="alternate"/><category term="2023"/><category term="兴趣"/><published>2023-01-10T07:38:19+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/12</id><title>明日方舟会客室线索获取</title><updated>2023-01-30T11:45:07.337237+00:00</updated><content type="html"><![CDATA[<h1>关于明日方舟线索获取</h1>
+</tbody></table>]]></content><link href="https://github.com/noteMay/blog/issues/14" rel="alternate"/><category term="2023"/><category term="兴趣"/><published>2023-01-10T07:38:19+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/12</id><title>明日方舟会客室线索获取</title><updated>2023-01-30T15:41:29.492185+00:00</updated><content type="html"><![CDATA[<h1>关于明日方舟线索获取</h1>
 <p><code>Kaiyuhu</code><a href="https://www.bilibili.com/read/cv2743119">https://www.bilibili.com/read/cv2743119</a></p>
 <ul>
 <li>干员线索指向（概率增大，非必出）：<a href="https://github.com/noteMay/blog/issues/12#issuecomment-1374878620">https://github.com/noteMay/blog/issues/12#issuecomment-1374878620</a></li>
@@ -1362,7 +1365,7 @@ I&#x27;m at rest
 <li>其他说法：<a href="https://github.com/noteMay/blog/issues/12#issuecomment-1374879844">https://github.com/noteMay/blog/issues/12#issuecomment-1374879844</a></li>
 <li>个人测试，仅供参考：<a href="https://github.com/noteMay/blog/issues/12#issuecomment-1374895018">https://github.com/noteMay/blog/issues/12#issuecomment-1374895018</a></li>
 </ul>
-]]></content><link href="https://github.com/noteMay/blog/issues/12" rel="alternate"/><category term="游戏"/><published>2023-01-08T16:38:38+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/11</id><title>早餐午餐晚餐宵夜</title><updated>2023-01-30T11:45:07.580003+00:00</updated><content type="html"><![CDATA[<h1>每天吃饭记录</h1>
+]]></content><link href="https://github.com/noteMay/blog/issues/12" rel="alternate"/><category term="游戏"/><published>2023-01-08T16:38:38+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/11</id><title>早餐午餐晚餐宵夜</title><updated>2023-01-30T15:41:29.817931+00:00</updated><content type="html"><![CDATA[<h1>每天吃饭记录</h1>
 <blockquote>
 <p>宵夜变成下午茶了，因为上白班容易肚子饿</p>
 </blockquote>
@@ -1528,7 +1531,7 @@ I&#x27;m at rest
 <li><input checked="" disabled="" type="checkbox"> 晚餐：黑鱼＋米饭</li>
 <li><input checked="" disabled="" type="checkbox"> 宵夜：吐司切片＋<code>蜜雪冰城</code>桃喜芒芒</li>
 </ul>
-]]></content><link href="https://github.com/noteMay/blog/issues/11" rel="alternate"/><category term="2023"/><category term="美食"/><category term="生活"/><category term="记录"/><published>2023-01-08T16:20:19+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/10</id><title>摸游戏</title><updated>2023-01-30T11:45:07.739526+00:00</updated><content type="html"><![CDATA[<p>因为偶尔会玩一些游戏，给自己做个记录，免得忘记了</p>
+]]></content><link href="https://github.com/noteMay/blog/issues/11" rel="alternate"/><category term="2023"/><category term="美食"/><category term="生活"/><category term="记录"/><published>2023-01-08T16:20:19+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/10</id><title>摸游戏</title><updated>2023-01-30T15:41:29.946595+00:00</updated><content type="html"><![CDATA[<p>因为偶尔会玩一些游戏，给自己做个记录，免得忘记了</p>
 <table>
 <thead>
 <tr>
@@ -1673,7 +1676,7 @@ I&#x27;m at rest
 <td align="center">角色等级</td>
 <td align="center">扫荡挂机刷本</td>
 </tr>
-</tbody></table>]]></content><link href="https://github.com/noteMay/blog/issues/10" rel="alternate"/><category term="2023"/><category term="游戏"/><category term="记录"/><published>2023-01-08T16:17:17+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/8</id><title>链接</title><updated>2023-01-30T11:45:07.892795+00:00</updated><content type="html"><![CDATA[<p>打心后会自动加到友情链接里
+</tbody></table>]]></content><link href="https://github.com/noteMay/blog/issues/10" rel="alternate"/><category term="2023"/><category term="游戏"/><category term="记录"/><published>2023-01-08T16:17:17+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/8</id><title>链接</title><updated>2023-01-30T15:41:30.055114+00:00</updated><content type="html"><![CDATA[<p>打心后会自动加到友情链接里
 名字：
 链接：
 描述：</p>
@@ -1773,7 +1776,7 @@ I&#x27;m at rest
 <td align="center">Maple Calc</td>
 <td align="center"><a href="https://acceyuriko.github.io/MapleCalc">https://acceyuriko.github.io/MapleCalc</a></td>
 </tr>
-</tbody></table>]]></content><link href="https://github.com/noteMay/blog/issues/8" rel="alternate"/><category term="Links"/><published>2023-01-08T08:42:16+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/7</id><title>睡眠</title><updated>2023-01-30T11:45:08.006876+00:00</updated><content type="html"><![CDATA[<p><a href="https://blog.9852.life/#/posts/7">https://blog.9852.life/#/posts/7</a></p>
+</tbody></table>]]></content><link href="https://github.com/noteMay/blog/issues/8" rel="alternate"/><category term="Links"/><published>2023-01-08T08:42:16+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/7</id><title>睡眠</title><updated>2023-01-30T15:41:30.167526+00:00</updated><content type="html"><![CDATA[<p><a href="https://blog.9852.life/#/posts/7">https://blog.9852.life/#/posts/7</a></p>
 <blockquote>
 <p>新的一年，目标是早睡早起！</p>
 </blockquote>
@@ -1914,7 +1917,7 @@ I&#x27;m at rest
 <td align="center">2023-01-07</td>
 <td align="center">手表刚到手，试试看功能，很满意！</td>
 </tr>
-</tbody></table>]]></content><link href="https://github.com/noteMay/blog/issues/7" rel="alternate"/><category term="2023"/><category term="生活"/><category term="记录"/><published>2023-01-08T08:28:58+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/6</id><title>2023-01</title><updated>2023-01-30T11:45:08.114230+00:00</updated><content type="html"><![CDATA[<p>大概是发牢骚或者碎碎念吧
+</tbody></table>]]></content><link href="https://github.com/noteMay/blog/issues/7" rel="alternate"/><category term="2023"/><category term="生活"/><category term="记录"/><published>2023-01-08T08:28:58+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/6</id><title>2023-01</title><updated>2023-01-30T15:41:30.272216+00:00</updated><content type="html"><![CDATA[<p>大概是发牢骚或者碎碎念吧
 写不成一篇日记的朋友圈</p>
 <h1>01-08</h1>
 <p>早餐吃了豆浆和吐司切片面包！
@@ -2006,7 +2009,7 @@ GitHub Page那边的表格表现不出来，不折腾了！太累了
 <p>再试试看</p>
 <hr />
 <p>再看看……参考<a href="https://blog.leeyom.top/#/posts/38">https://blog.leeyom.top/#/posts/38</a></p>
-]]></content><link href="https://github.com/noteMay/blog/issues/6" rel="alternate"/><category term="2023"/><category term="生活"/><category term="TOP"/><published>2023-01-08T08:28:30+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/5</id><title>网络小说</title><updated>2023-01-30T11:45:08.269670+00:00</updated><content type="html"><![CDATA[<p>无聊看的网络小说，有空记录一下观后感好了……虽然很不想记
+]]></content><link href="https://github.com/noteMay/blog/issues/6" rel="alternate"/><category term="2023"/><category term="生活"/><category term="TOP"/><published>2023-01-08T08:28:30+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/5</id><title>网络小说</title><updated>2023-01-30T15:41:30.391802+00:00</updated><content type="html"><![CDATA[<p>无聊看的网络小说，有空记录一下观后感好了……虽然很不想记
 找文看<a href="https://space.bilibili.com/13068664/article">https://space.bilibili.com/13068664/article</a></p>
 <blockquote>
 <p>✔：表示看完了
@@ -2042,7 +2045,7 @@ GitHub Page那边的表格表现不出来，不折腾了！太累了
 <li><input checked="" disabled="" type="checkbox"> 被万人迷女主O标记后 <a href="https://github.com/noteMay/blog/issues/5#issuecomment-1374912292">https://github.com/noteMay/blog/issues/5#issuecomment-1374912292</a> <code>★★★☆</code></li>
 <li><input checked="" disabled="" type="checkbox"> 被渣A系统绑定后我靠脸盲爆红了 <a href="https://github.com/noteMay/blog/issues/5#issuecomment-1376977385">https://github.com/noteMay/blog/issues/5#issuecomment-1376977385</a> <code>★★★</code></li>
 </ul>
-]]></content><link href="https://github.com/noteMay/blog/issues/5" rel="alternate"/><category term="2023"/><category term="兴趣"/><published>2023-01-08T08:24:06+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/4</id><title>追番</title><updated>2023-01-30T11:45:08.556066+00:00</updated><content type="html"><![CDATA[<p>不打算看太多……没时间
+]]></content><link href="https://github.com/noteMay/blog/issues/5" rel="alternate"/><category term="2023"/><category term="兴趣"/><published>2023-01-08T08:24:06+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/4</id><title>追番</title><updated>2023-01-30T15:41:30.525515+00:00</updated><content type="html"><![CDATA[<p>不打算看太多……没时间
 追番地址：<a href="https://www.agemys.net/">https://www.agemys.net/</a>
 |番剧|首播时间|看番|
 |---|---|---|
@@ -2051,7 +2054,7 @@ GitHub Page那边的表格表现不出来，不折腾了！太累了
 |ツンデレ悪役令嬢リーゼロッテと実況の遠藤くんと解説の小林さん|2023-01-06|<a href="https://www.agemys.net/detail/20220133">链接</a>|
 |ひろがるスカイ！プリキュア|2023-02-05|<a href="">链接</a>|
 |虚構推理 Season2 <a href="https://github.com/noteMay/blog/issues/4#issuecomment-1380803022">https://github.com/noteMay/blog/issues/4#issuecomment-1380803022</a> |每周日|<a href="https://www.agemys.net/detail/20220084">链接</a>|</p>
-]]></content><link href="https://github.com/noteMay/blog/issues/4" rel="alternate"/><category term="2023"/><category term="兴趣"/><category term="记录"/><published>2023-01-08T08:22:51+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/3</id><title>看视频</title><updated>2023-01-30T11:45:08.645335+00:00</updated><content type="html"><![CDATA[<p>时不时看点视频</p>
+]]></content><link href="https://github.com/noteMay/blog/issues/4" rel="alternate"/><category term="2023"/><category term="兴趣"/><category term="记录"/><published>2023-01-08T08:22:51+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/3</id><title>看视频</title><updated>2023-01-30T15:41:30.632463+00:00</updated><content type="html"><![CDATA[<p>时不时看点视频</p>
 <blockquote>
 <p><a href="https://www.bilibili.com/video/BV17B4y1j7Cf/">【逍遥散人】断句的神</a>
 <a href="https://www.bilibili.com/video/BV1B84y1z7fe/">【逍遥散人】核爆断句第二弹</a>
@@ -2101,7 +2104,7 @@ GitHub Page那边的表格表现不出来，不折腾了！太累了
 <p>通讯录故事会·回宫篇<a href="https://www.bilibili.com/video/BV16M41127is">https://www.bilibili.com/video/BV16M41127is</a>
 好事，都过上幸福的日子了，未来会更好！</p>
 </blockquote>
-]]></content><link href="https://github.com/noteMay/blog/issues/3" rel="alternate"/><category term="2023"/><category term="兴趣"/><category term="记录"/><published>2023-01-08T08:18:46+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/2</id><title>2023年想做的事情</title><updated>2023-01-30T11:45:08.757102+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/noteMay/blog/issues/3" rel="alternate"/><category term="2023"/><category term="兴趣"/><category term="记录"/><published>2023-01-08T08:18:46+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/2</id><title>2023年想做的事情</title><updated>2023-01-30T15:41:30.772497+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input disabled="" type="checkbox"> 拍更多照片</li>
 <li><input disabled="" type="checkbox"> 看风景（旅游的意思）</li>
 <li><input disabled="" type="checkbox"> 学习英语</li>
@@ -2129,7 +2132,7 @@ GitHub Page那边的表格表现不出来，不折腾了！太累了
 <li><input disabled="" type="checkbox"> 组建NAS</li>
 <li><input disabled="" type="checkbox"> 编一首曲子</li>
 </ul>
-]]></content><link href="https://github.com/noteMay/blog/issues/2" rel="alternate"/><category term="TODO"/><published>2023-01-08T08:15:01+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/1</id><title>粉红理论</title><updated>2023-01-30T11:45:08.857493+00:00</updated><content type="html"><![CDATA[<p>相关搜索链接：<a href="https://search.bilibili.com/all?keyword=FreenBecky">https://search.bilibili.com/all?keyword=FreenBecky</a>
+]]></content><link href="https://github.com/noteMay/blog/issues/2" rel="alternate"/><category term="TODO"/><published>2023-01-08T08:15:01+00:00</published></entry><entry><id>https://github.com/noteMay/blog/issues/1</id><title>粉红理论</title><updated>2023-01-30T15:41:30.885688+00:00</updated><content type="html"><![CDATA[<p>相关搜索链接：<a href="https://search.bilibili.com/all?keyword=FreenBecky">https://search.bilibili.com/all?keyword=FreenBecky</a>
 相关视频中字👇</p>
 <ul>
 <li>EP1-Reaction中字cut <a href="https://github.com/noteMay/noteMay.github.io/issues/1#issuecomment-1374751317">https://github.com/noteMay/noteMay.github.io/issues/1#issuecomment-1374751317</a></li>

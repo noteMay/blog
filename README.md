@@ -119,8 +119,8 @@
 </details>
 
 ## TODO
-TODO list from [待看](https://github.com/noteMay/blog/issues/40)--2 jobs to do--0 jobs done
-- [ ] [魅力纪录：花豹女王](https://www.bilibili.com/video/BV1Gs411a76W/)
+TODO list from [待看](https://github.com/noteMay/blog/issues/40)--1 jobs to do--1 jobs done
+- [x] [魅力纪录：花豹女王](https://www.bilibili.com/video/BV1Gs411a76W/)
 - [ ] 《纪录片编辑室》 [20160629 含泪活着·上](http://jishi.cctv.com/2016/06/29/VIDEkf7hLfh7M6cK1oRJQbbF160629.shtml)
 
 TODO list from [2023年想做的事情](https://github.com/noteMay/blog/issues/2)--14 jobs to do--2 jobs done
