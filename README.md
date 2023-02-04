@@ -120,12 +120,14 @@
 </details>
 
 ## TODO
-TODO list from [待看](https://github.com/noteMay/blog/issues/40)--2 jobs to do--3 jobs done
+TODO list from [待看](https://github.com/noteMay/blog/issues/40)--4 jobs to do--3 jobs done
 - [x] 魅力纪录：[花豹女王](https://www.bilibili.com/video/BV1Gs411a76W/)
 - [x] 《纪录片编辑室》 [20160526 再见，通北路](https://jishi.cctv.com/2016/05/26/VIDEKOHZYnABMYy8usRFDxf3160526.shtml)
 - [x] 《纪录片编辑室》 [20160530 海之南·上](https://jishi.cctv.com/2016/05/27/VIDEz6UpYeNxiXBRhsKaz0nt160527.shtml)
 - [ ] 《纪录片编辑室》 [20160629 含泪活着·上](http://jishi.cctv.com/2016/06/29/VIDEkf7hLfh7M6cK1oRJQbbF160629.shtml)
 - [ ] 《纪录片编辑室》 [20160530 海之南·下](https://jishi.cctv.com/2016/05/30/VIDEVflIdphl3LJJOS6JH42x160530.shtml)
+- [ ] [第1期上 种地团热血奋战稻田](http://www.iqiyi.com/v_1cn6v93s3gs.html)
+- [ ] [第1期下 种地团抢收水稻翻车不断](http://www.iqiyi.com/v_wmc3k0ku34.html)
 
 TODO list from [2023年想做的事情](https://github.com/noteMay/blog/issues/2)--14 jobs to do--2 jobs done
 - [x] 用大佬的代码写打卡issues
