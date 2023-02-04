@@ -105,7 +105,7 @@
 - [唠嗑](https://github.com/noteMay/blog/issues/29)--2023-01-15
 - [随便拍拍](https://github.com/noteMay/blog/issues/28)--2023-01-14
 - [实用网址](https://github.com/noteMay/blog/issues/27)--2023-01-14
-- [Windows自用备份](https://github.com/noteMay/blog/issues/26)--2023-01-14
+- [鼠标指针](https://github.com/noteMay/blog/issues/26)--2023-01-14
 - [看新闻](https://github.com/noteMay/blog/issues/25)--2023-01-13
 - [作曲写歌创作入门第三课](https://github.com/noteMay/blog/issues/24)--2023-01-13
 - [作曲写歌创作入门第二课](https://github.com/noteMay/blog/issues/23)--2023-01-13
