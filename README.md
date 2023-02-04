@@ -12,11 +12,11 @@
 - [运动记录](https://github.com/noteMay/blog/issues/15)--2023-01-10
 - [2023-01](https://github.com/noteMay/blog/issues/6)--2023-01-08
 ## New
+- [汽车相关知识](https://github.com/noteMay/blog/issues/44)--2023-02-04
 - [iWatch](https://github.com/noteMay/blog/issues/43)--2023-01-30
 - [明日方舟干员技能](https://github.com/noteMay/blog/issues/42)--2023-01-27
 - [明日方舟助战干员](https://github.com/noteMay/blog/issues/41)--2023-01-27
 - [待看](https://github.com/noteMay/blog/issues/40)--2023-01-25
-- [备份手机](https://github.com/noteMay/blog/issues/38)--2023-01-25
 ## 2023
 - [唠嗑](https://github.com/noteMay/blog/issues/29)--2023-01-15
 - [运动APP数据导出](https://github.com/noteMay/blog/issues/21)--2023-01-13
