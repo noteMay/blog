@@ -11,7 +11,7 @@
 - 第三方运动数据导入<https://weibo.com/ttarticle/p/show?id=2309404866178719023627>
 - 华为运动健康运动数据导出<https://privacy.consumer.huawei.com/tool?lang=zh-cn&themeName=blue>
 
-卧槽，发现个大佬<https://weibo.com/7715326836/LFytZqkOY>
+卧槽，发现个大佬<https://weibo.com/7715326836/LFytZqkOY><https://weibo.com/7715326836/Mrbq6hkKT>
 
 # 2023-01-15
 
