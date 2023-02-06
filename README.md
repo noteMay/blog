@@ -46,9 +46,10 @@
 - [乒乓球相关教程](https://github.com/noteMay/blog/issues/33)--2023-01-20
 - [锻炼](https://github.com/noteMay/blog/issues/32)--2023-01-19
 - [WTT Contender Doha 2023](https://github.com/noteMay/blog/issues/30)--2023-01-16
-- [运动APP数据导出](https://github.com/noteMay/blog/issues/21)--2023-01-13
+- [实用网址](https://github.com/noteMay/blog/issues/27)--2023-01-14
 <details><summary>More</summary>
 
+- [运动APP数据导出](https://github.com/noteMay/blog/issues/21)--2023-01-13
 - [听歌](https://github.com/noteMay/blog/issues/18)--2023-01-11
 - [看剧](https://github.com/noteMay/blog/issues/14)--2023-01-10
 - [网络小说](https://github.com/noteMay/blog/issues/5)--2023-01-08
@@ -70,11 +71,12 @@
 ## 生活
 - [iWatch](https://github.com/noteMay/blog/issues/43)--2023-01-30
 - [锻炼](https://github.com/noteMay/blog/issues/32)--2023-01-19
+- [实用网址](https://github.com/noteMay/blog/issues/27)--2023-01-14
 - [RedMi Watch 2](https://github.com/noteMay/blog/issues/20)--2023-01-12
 - [早餐午餐晚餐宵夜](https://github.com/noteMay/blog/issues/11)--2023-01-08
-- [睡眠](https://github.com/noteMay/blog/issues/7)--2023-01-08
 <details><summary>More</summary>
 
+- [睡眠](https://github.com/noteMay/blog/issues/7)--2023-01-08
 - [2023-01](https://github.com/noteMay/blog/issues/6)--2023-01-08
 </details>
 
