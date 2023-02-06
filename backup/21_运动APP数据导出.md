@@ -7,7 +7,6 @@
 #2023-02-06
 
 > [华为运动健康运动数据的导入与导出](https://weibo.com/ttarticle/p/show?id=2309404866178719023627)
-
 - 第三方运动数据导入<https://weibo.com/ttarticle/p/show?id=2309404866178719023627>
 - 华为运动健康运动数据导出<https://privacy.consumer.huawei.com/tool?lang=zh-cn&themeName=blue>
 
