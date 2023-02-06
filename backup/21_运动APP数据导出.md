@@ -4,7 +4,20 @@
 
 又因为骑行加入了Strava，Strava可以通过导入谷歌健康的数据……所以就看看有什么方法给导入到谷歌健康里去
 
-# 23-01-13
+#2023-02-06
+
+> [华为运动健康运动数据的导入与导出](https://weibo.com/ttarticle/p/show?id=2309404866178719023627)
+
+- 第三方运动数据导入<https://weibo.com/ttarticle/p/show?id=2309404866178719023627>
+- 华为运动健康运动数据导出<https://privacy.consumer.huawei.com/tool?lang=zh-cn&themeName=blue>
+
+卧槽，发现个大佬<https://weibo.com/7715326836/LFytZqkOY>
+
+# 2023-01-15
+
+暂时没找到最佳方案……还会继续找的
+
+# 2023-01-13
 
 ## 一些参考资料
 
@@ -22,7 +35,3 @@
 
 > [ios 的健康 app 和健身 app 是不是没有 apple watch 就没用了](https://v2ex.com/t/882087)
 怎么感觉只能围魏救赵了……嗨呀
-
-## 2023-01-15
-
-暂时没找到最佳方案……还会继续找的
