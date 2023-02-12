@@ -60,6 +60,7 @@
 
 ## 学习
 - [汽车相关知识](https://github.com/noteMay/blog/issues/44)--2023-02-04
+- [锻炼](https://github.com/noteMay/blog/issues/32)--2023-01-19
 - [作曲写歌创作入门第三课](https://github.com/noteMay/blog/issues/24)--2023-01-13
 - [作曲写歌创作入门第二课](https://github.com/noteMay/blog/issues/23)--2023-01-13
 - [作曲写歌创作入门第一课](https://github.com/noteMay/blog/issues/19)--2023-01-12
