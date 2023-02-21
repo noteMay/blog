@@ -132,9 +132,10 @@ TODO list from [待看](https://github.com/noteMay/blog/issues/40)--1 jobs to do
 - [x] 第1期下[种地团抢收水稻翻车不断](http://www.iqiyi.com/v_wmc3k0ku34.html)
 - [ ] 《纪录片编辑室》 [20160629 含泪活着·上](http://jishi.cctv.com/2016/06/29/VIDEkf7hLfh7M6cK1oRJQbbF160629.shtml)
 
-TODO list from [2023年想做的事情](https://github.com/noteMay/blog/issues/2)--14 jobs to do--2 jobs done
+TODO list from [2023年想做的事情](https://github.com/noteMay/blog/issues/2)--13 jobs to do--3 jobs done
 - [x] 用大佬的代码写打卡issues
 - [x] 更改链接的格式，使GitHub Page能显示完整
+- [x] 出去旅游或者去与人见面
 - [ ] 拍更多照片
 - [ ] 看风景（旅游的意思）
 - [ ] 学习英语
@@ -146,7 +147,6 @@ TODO list from [2023年想做的事情](https://github.com/noteMay/blog/issues/2
 - [ ] 早睡早起
 - [ ] 写一个页面展示我的打卡记录（获取issues最近更新时间）
 - [ ] 看海
-- [ ] 出去旅游或者去与人见面
 - [ ] 组建NAS
 - [ ] 编一首曲子
 
